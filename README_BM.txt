@@ -1,5 +1,5 @@
 Original Idea/Author SalamanderAnder on G.A.M.M.A discord.
-Credits (in no specific order) : gentlemangoose, VVLàD, Dyshes, strangerism, rasde, Wulfos3, firehome, markuzkiller, bvcx, TheMrDemonized, Grok, RavenAscendant, artifax, Anomaly Discord, G.A.M.M.A Discord and every goddamn dude that made this possible.
+Credits (in no specific order) : zredvenomz, iceking79, gentlemangoose, VVLàD, Dyshes, strangerism, rasde, Wulfos3, firehome, markuzkiller, bvcx, TheMrDemonized, Grok, RavenAscendant, artifax, Anomaly Discord, G.A.M.M.A Discord and every goddamn dude that made this possible.
 
 ---------------------Installation-----------------------------
 
