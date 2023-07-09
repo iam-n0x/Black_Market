@@ -1,0 +1,236 @@
+-------------------Changelog----------------------------
+2.6.h15
+- Fixes
+	• Fixed dialog lines not being displayed
+		• Thanks to @zredvenomz & @iceking79
+	
+2.6.h14
+- Fixes
+	• Missing file leading to crash if you don't use Black Market Mag Redux
+	
+2.6.h13
+- Fixes
+	• Field strip option avalaible in traders inventory disabled.
+	• Fixed "missing section" console errors.
+		• Thanks to @VVLàD
+	• NPCs loadout cleaner included.
+	• Fixed Groza descriptions (EN/RU).
+	• Fixed AUG-A1 tier description (RU).
+	• Fixed PKM_zulu description (RU).
+		• Thanks to @gentlemangoose
+
+2.6.h12
+- Fixed Polymer (Darkscape) trade profile.
+
+2.6.h11
+- Changed presets to make it compatible with Mags Redux patch.
+- Cutter (Darkscape) has its own trader profile.
+	• His base profile includes Loris trade pool + black market WP 1.
+- Trade pool changes
+	• Saiga 12 removed.
+	• Ks23 Ecolog removed.
+	• Toz 34 bull removed.
+	• TT33 moved to wp 1.
+	• PP-19 moved to wp2.
+	• PP-2000 moved to wp 2.
+	• Thompson 1921 moved to nato 1.
+	• M1911 SVI moved to nato 2.
+	• Mauser k98 and Silenced version moved to Nato 2.
+	• Mp7 moved to nato 2.
+	• SA-58 Aus moved to nato 2.
+	• SKS Tactical moved to nato 2.
+	• Walther_P99 and mod9 version moved to nato 2.
+	• SA-58 OSW moved to nato 3.
+	• Scar Siber rmoved to nato 3.
+	• SR-25 moved to nato 3.
+- Fixes
+	• Fixed RPG7 spawning in Spore inventory.
+
+2.6.h10
+- Retrogue's weapons (gamma version) added to trade pool.
+	• G36s replaced.
+	• P90gamma added to Nato 3.
+- Changes
+	• P90_gs moved to Nato 2.
+	• Ace52 moved to Nato 2.
+- Fixes
+	• Moved some remaining low tier Colts to nato 1.
+	• Toz 194 moved to WP 1.
+	• Fixed Gunslinger usp descriptions.
+	• Fixed Glock 17 Tactical wrong label (RU).
+
+2.6.h9
+- Removed forgotten test folder that disabled cortex injection.
+	• Thanks to @rasde !
+	
+2.6.h8
+- Gunslinger SIGs and Groza included.
+- Gunslinger P90 descriptions fixed EN/RU.
+- Gunslinger Beretta 92F "Stars" descriptions fixed EN/RU.
+- Gunslinger Toz Chimera/Bull base cost reduced and descriptions fixed EN/RU.
+- SIG550 (custom) moved to Nato 3.
+- RD-9x39 base cost reduced.
+- wpn_ump45_mark8_rmr and wpn_ump45_custom_mark8_rmr added to trade preset.
+- trade_presets.ltx removed. Fixes are applied via blackmarket_gammafixes.ltx.
+- "Mags Buyable at Traders" disabled via blackmarket_gammafixes.ltx.
+- Ithaca autoinjection removed.
+
+2.6.h7
+- All additional items are removed. Only weapons and armor remain.
+- Price multipliers affecting all items except weapons and armor have been removed.
+- RG-6 moved to Nato 2 pool.
+	• Thanks to @Dyshes !
+- M40 Gas Mask removed from Sakharov inventory.
+- Fixed wpn_glock_modern description.
+
+2.6.h6
+- Gunslinger P90 Tactical added to Nato 3 pool.
+
+2.6.h5
+- Mod updated to work with G.A.M.M.A 0.9 presets.
+- Ace52 and M37 added to Nato 1 pool.
+
+2.6.h4
+- Fixed MP-412 Rex description (RU).
+	• Thanks to @rasde !
+- Latest DXML scripts included.
+
+2.6.h3
+- DXML scripts have been removed as they are now included in G.A.M.M.A
+	• Thanks to @strangerism
+
+2.6.h2
+- Fixed TOZ-34 sawn-off name/description (RU).
+	• Thanks to @rasde !
+
+2.6.h1
+- Fixed Auto-injection poisonning traders presets
+	• Fixed Dushman selling tier2 Augs. You should see more variety in all NATO trading pools.
+- Fixed missing RU descriptions.
+	• Thanks to @rasde !
+
+2.6
+- Descriptions updated
+	• Attachments for every weapon should be displayed correctly in the tooltip.
+	• BlackMarket tag added.
+- Fixed weapons (variants and attachment combos) not supposed to be sellable.
+	•For now the mod will overwrite G.A.M.M.A economy trade_preset.ltx till these fixes will be included in G.A.M.M.A. (It was a long process of checking each weapon variant & combo, I checked several times but there may still be some left. Please report any weird possibilities of selling a weapon that isn't supposed to be sellable)
+- Fixed dushman not buying helmets.
+- Fixed dushman sellings tier 2 augs variants. (band-aid fix, I still don't know what's causing this)
+- Unused items removed from nimble inventory.
+
+2.5
+- Fixed some weapons in incorrect trade pools.
+- Fixed scientists not selling headgear.
+- Added specter variants for some AUG's to trade tables.
+- Fixed NATO AK variants being classified as WP.
+- Updated Nato AK variant desription text.
+- Included description fixes from @Nox
+- Still can't find a fix for Dushman stocking some specific tier 2 AUG's. I can't find why it's happening, I'm completely stumped. Guess Mercs really do live by their own rules.
+- Still need to check for more missing attachment variants.
+
+2.4
+- Added new probability overrides for weapons and armor, each supply level will reduce the odds of stocking these items from the previous supply level.
+- This *should* reduce inventory bloat at high supply levels and increase the odds of finding better loot at the higher supply levels.
+- Adjusted the probabilities for weapons and armors, and adjusted some supply levels.
+- Tiered ammo by FMJ, HP and AP and made a sliding scale of price multipliers so early game calibers are more affordable.
+- Found a bug with forester. By default the logic for Lesnik makes him use the generic mechanic profile. (trade_generic_mechanic.ltx)
+- This means my edits were doing nothing. I have rolled the edits made by @firehome into the mod and fixed several errors, and added the logic to make Lesnik unique.
+- Moved some Loner armors to Forester.
+- Added tier info to several weapons, thanks to @markuzkiller for finding them. I was also able to add some missing weapons to the trader buy pools.
+- Removed the supply level edits from Nimble, this should fix the CTD when talking to him.
+
+2.3
+- Increased price multipliers.
+- Added ammo price multipliers.
+- Added a chance to get intermediate FMJ ammo at supply level 1 for certain factions (Military, Mercs, Freedom, Duty, Monolith, Renegades, ISG, Sin.)
+- Modified some trade probabilities.
+- Moved around armors and masks in trade pools for (hopefully) smoother and harder progression.
+
+2.2
+- Fixed the tier 3 nato definition, now those trader should work correctly.
+- Found my fix from 2.0 was not included in the 2.1 patch. Stupid.
+- Fixed a couple other random issues in the presets file.
+
+2.1
+- Fixed day flea market trader. Should now sell armors.
+
+2.0 hotfix
+- Force removed all toolkits from regular trader inventories. Mechanics are unchanged, they will still sell toolkits after you do their fetch quests.
+
+1.9
+- Added price multipliers for armors, helmets, NVG's, and army kettle. Increased the multiplier slightly.
+- Updated dialogues for ecologist traders.
+- Added armors to trade pools, huge thanks to @Wulfos3 for his spreadsheet of game items and ranking, which made this process insanely easy.
+- Russian dialogue localization thanks to @rasde.
+- Changed rg-6 to tier 2.
+- Added the new weapons from GAMMA 1.2 to the trade tables.
+- Fixed all weapons missing tier descriptions, big thanks to @xcvb for his script which prints the items in inventory to the log.
+
+Known issue:
+- ~119 weapons do not have attachment bullet infos under the description in the english text. Some of them aren't supposed to have these, but some are missing.
+- As far as I can tell, these are missing in vanilla GAMMA. I pulled the descriptions straight from the current xml files in GAMMA.
+- I have included a .txt list of these weapons in the mod files. I probably won't be fixing those descriptions myself.
+- This is likely the last update I will make to the mod in a while. My apprenticeship is heating up and I need to focus on work.
+- If anyone wants to contribute/update the mod, feel free to post updates in the discord.
+
+1.8
+- Fixed Cashier (was incorrectly categorized as tier 1, now tier 3 WP).
+- Adjusted armor probabilites since they were too common.
+
+1.7
+- Included core scripts from DXML mod. This should get dialogues working without any extra steps. It's probably not a bad idea to install DXML on it's own (but leave out the included modded .exe's)
+- Updated (most) weapon descriptions with Tier information. There may still be some weapons that do not have Tier information. Please let me know if you come across any, or any that have incorrect tier info.
+- Lowered odds of weapon spawns in trader inventories dramatically. This means Trader Overhaul is NO LONGER REQUIRED! (You can still use it if you want to)
+- Fixed trader pools excluding armors. Some traders should now have armors spawn in their inventories.
+- Added some missing weapons to trader pools during the description update process.
+
+
+1.6
+- Added dialogues to traders to inform the player of what type and tier weapons they trade. (Still needs full testing)
+- Included a vanilla version of the stalker dialogues so disabling "no trade with random stalkers" is no longer necessary.
+
+1.5*
+- Added the blackmarket prices definition to the trader_generic_sell. woops.
+
+1.5
+- Ordered changelog from newest to oldest, would you look at that.
+- Removed guns from trader sell pools that were absent in good_guns (so removed weapons determined to be bad by grok)
+- Added configuration for the price traders sell weapons. Currently all weapons have been set to 300% base cost. (Basically a risk tax by the traders)
+- Increased odds for pistols and reduced odds for gauss rifle to spawn in trader inventories.
+- Migrated ALL Black Market presets to the blackmarket_trade_presets.ltx file. This means that the mod is officially 
+	no longer overwriting ANY FILES!! Yay! :)
+
+(I consider this an absolute win. In my humble opionion mags_buyable_at_traders should adopt a similar implementation instead of 
+	overwriting GAMMA's economy presets.)
+
+1.4 (needs testing but I think it should be good)
+- Foundational update! Weapon Sell pools have been migrated to a brand new blackmarket_weapon_preset.ltx file, 
+which is now injected into the included files using the existing DLTX changes. This is extremely important for
+future updates to the sell pools - Instead of editing 30 trader files, only 1 file has to be updated.
+
+- Eggheads no longer sell weapons, they only buy them. The lore explaination is that they are selling them to the UN through a buyback program. Eggheads are very lawful and friendly with most factions so to me it makes sense.
+- Day flea market trader no longer sells weapons (balance reasons, level 1 nato sellers are available elsewhere)
+- Removed the artefact melter changes from the item_uses_increases minimod.
+
+1.3
+- Added tier definitions for "Any" type traders. Some traders (Monolith, Mercs, Renegades) will now buy either WP or NATO weapons but are now also constrained by the tier system.
+- Added weapons of both types to "Any" traders sell pools.
+- Removed the random stalker money changes. After some testing I decided random stalkers had too much money to trade with, it's not worth overwriting other mods.
+- Made tiers mutually exclusive for more balance (Tier 2 will not buy Tier 1 weapons, Tier 3 will not buy Tier 1 or 2 weapons).
+- Fixed Truck Cemetery Bandit trader.
+- Fixed a few other traders that were not correctly tiered, like trade_merc_basic and trade_monolith_basic.
+
+1.2
+- Fixed a missing definition which was causing Sakarov to buy all weapons.
+
+1.1
+- added army kettle to trader pools after supply level 2
+- aligned trader_sell_generic with trader_buy_generic definitions, this should prevent traders from selling the wrong types of weapons with Mags Buyable at Traders. This MIGHT break some functionality in that mod, I'm not sure
+- fixed versioning... I'm lousy at that
+
+1.0
+- cleaned unneeded files
+- fixed crash in Great Swamp related to Spore
+- DLTXified
+- Aligned weapon sale pools with buy pools
