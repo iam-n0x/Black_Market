@@ -432,8 +432,14 @@
 		%c[d_purple] • %c[ui_gray_2] 5.56x45/7.62 NATO compatible suppressor.</text>
 	</string>
 	
-	<string id="st_wpn_spas12_descr">
+	<string id="st_wpn_spas12_descr">		<!-- Not used since 0.9.1 -->
 		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_blue]NATO  •··\n \n%c[ui_gray_2]The SPAS-12 is a dual-mode shotgun, designed for combat and anti-riot measures. It is employed by many special military and police units around the world. With its distinctive heat shield and folding stock, the SPAS-12 is an iconic firearm. Notable for its reliability and tactical flexibility. Despite its heavy weight, complex mechanism and considerable cost, it is in demand in the Zone due to its effectiveness against mutants.</text>
+	</string>
+	
+	<string id="st_wpn_spas12_descr_new">
+		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_blue]NATO  •··\n \n%c[ui_gray_2]The SPAS-12 is a dual-mode shotgun, designed for combat and anti-riot measures. It is employed by many special military and police units around the world. With its distinctive heat shield and folding stock, the SPAS-12 is an iconic firearm. Notable for its reliability and tactical flexibility. Despite its heavy weight, complex mechanism and considerable cost, it is in demand in the Zone due to its effectiveness against mutants.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] • %c[ui_gray_2] Salvo 12 compatible suppressor.</text>
 	</string>
 	
 	<string id="st_wpn_thompson_1921_descr">
@@ -1050,6 +1056,13 @@
 		%c[d_purple] • %c[ui_gray_2] Gemtech compatible suppressor.</text>
 	</string>
 	
+	<string id="st_wpn_xm4_descr">
+		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_blue]NATO  ••·\n \n%c[ui_gray_2]The M4 Carbine descends from a family of firearms tracing its lineage back to earlier carbine versions of the M16, all based on the original AR-15 made by ArmaLite. It is a shorter and lighter version of the M16 assault rifle, sharing 80% of its parts. The M4 fires 5.56x45mm NATO ammunition and are gas operated, air cooled, magazine fed, selective fire firearms with a 4 position telescoping stock. As with many carbines, the M4 is handy and more convenient to carry than a full length rifle. It has been adopted by United States Special Operations Command (USSOCOM) and is the preferred weapon of the U.S. Army Special Forces and Navy SEALs.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] • %c[ui_gray_2] PN-23, SpecterDR, OKP-07 (picatinny), ACOG x4, EOTech XPS3-0, Meprolight.\n
+		%c[d_purple] • %c[ui_gray_2] AAC M4-2000 compatible suppressor.\n</text>
+	</string>
+	
 	<string id="st_wpn_xm8_descr">
 		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_blue]NATO  ••·\n \n%c[ui_gray_2]The XM8 is a lightweight assault rifle system from the late 1990s to early 2000s. The rifle was designed by German small arms manufacturer Heckler & Koch (H&K), and shares design and engineering with their G36 rifle.\n
 		The XM8 design was originally part of the Objective Individual Combat Weapon program (OICW), which was developing a "smart" grenade launcher system with an underslung carbine rifle. The system was unable to meet performance and weight requirements and was eventually cancelled. In the aftermath, the two portions of the OICW were separated, resulting in the XM8 and XM25 projects.\n \n
@@ -1113,11 +1126,23 @@
 		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_blue]NATO  •••\n \n%c[ui_gray_2]The Coonan .357 Magnum is a peculiar semi-auto gun that uses .357 Magnum done through the chassis of a Colt 1911. This is done by changing the barrel, slide, handle and magazine to accommodate the caliber change. By the looks of it, this came through the Zone thanks to...Some sinister group, how they have acquired it is a mystery, but by the looks of how unkempt, contrasted and slightly broken the gun looks, it could even be an illegal clone of the original Coonan. Sadly, the weapon isn't exactly the best when it comes to accuracy, but the recoil is tolerable (as long as you don't rapid-fire) and the handling is great, one main benefit of using this instead of some other .357 pistols like the Desert Eagle is the conceal carry, weight and better Close Quarters Combat.</text>
 	</string>
 	
-	<string id="st_wpn_desert_eagle_descr">
-		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_blue]NATO  •••\n \n%c[ui_gray_2]The IMI Desert Eagle is a semi-automatic handgun notable for chambering the largest centrefire cartridge of any magazine fed, self-loading pistol and also being the heaviest and blockiest gun of its type. You can use it to bludgeon your enemies to death because of its blockiness and weight. Rumour is that there's a stalker with a crowbar wandering around the Zone with a rechambered version of this gun.</text>
+	<string id="st_wpn_deagle_descr">
+		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_blue]NATO  •••\n \n%c[ui_gray_2]Developed by the American company Magnum Research, the Desert Eagle uses a gas operated mechanism commonly found in rifles. This allows the pistol to use much larger caliber bullets than traditional semi-automatic pistols. The disadvantages of this weapon include a considerable size and heavy weight.\n \n
+		%c[d_green]  • %c[ui_gray_2] ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] Aimpoint T1 (Low), DOCTER Sight III, Deltapoint PRO, Trijicon RMR.</text>
 	</string>
 	
-	<string id="st_wpn_desert_eagle_dhampyr_descr">
+	<string id="st_wpn_steppe_eagle_descr">
+		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_blue]NATO  •••\n \n%c[ui_gray_2]Developed by the American company Magnum Research, the Desert Eagle uses a gas operated mechanism commonly found in rifles. This allows the pistol to use much larger caliber bullets than traditional semi-automatic pistols. The disadvantages of this weapon include a considerable size and heavy weight. On this barrel, all components are perfectly tuned to achieve the highest accuracy for pistols of this type, thanks to the integrated muzzle compensator, it was possible to significantly reduce recoil. It has a heavily redesigned picatinny rail, thanks to which a wide range of scopes can be mounted. This weapon was brought to the Zone by stalker Logan Williams. Under the guise of a journalist-photographer, he managed to reach the center of Pripyat alone. Currently, his fate is unknown, but there are rumors that he works as an informant for many secret departments on the Exclusion Zone.\n \n
+		%c[d_green]  • %c[ui_gray_2] ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] Various sights and scopes for Picatinny/Weaver rail (check details).</text>
+	</string>
+	
+	<string id="st_wpn_desert_eagle_descr">		<!-- Not used since 0.9.1 -->
+		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_blue]NATO  •••\n \n%c[ui_gray_2]The IMI Desert Eagle is a semi-automatic handgun notable for chambering the largest centrefire cartridge of any magazine fed, self-loading pistol and also being the heaviest and blockiest gun of its type. You can use it to bludgeon your enemies to death because of its blockiness and weight. Rumour is that there's a stalker with a crowbar wandering around the Zone with a rechambered version of this gun.</text>
+	</string>
+
+	<string id="st_wpn_desert_eagle_dhampyr_descr">		<!-- Not used since 0.9.1 -->
 		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_blue]NATO  •••\n \n%c[ui_gray_2]A more modernized version of the Desert Eagle, with a build-in compensator and picatinny rails, on frame and slide. Knowing that so, it still has quite a recoil but much lower than any other Desert Eagle, let alone magnum, the slight barrel improvements also improve the accuracy by a bit, and it's possible to insert some scopes. It seems to be of relatively new shape, but looking at the slide and the magazine, it claims to use .50AE and yet it's feeding on .357 Magnum. Without a doubt, it was modified right in The Zone, perhaps by Nimble himself.\n \n
 		%c[d_green]  • %c[ui_gray_2] ATTACHMENTS:\n
 		%c[d_purple] • %c[ui_gray_2] Barska ES AC10632, ACOG x4, C-MORE Tactical sight.</text>
@@ -1146,7 +1171,7 @@
 	<string id="st_wpn_fn57_descr">
 		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_blue]NATO  •••\n \n%c[ui_gray_2]Chambered in 5.7x28mm. The Five-seveN is a delayed blowback operated, semi-automatic pistol.\n \n
 		%c[d_green]  • %c[ui_gray_2] ATTACHMENTS:\n
-		%c[d_purple] • %c[ui_gray_2] Aimpoint T1 (Low), DOCTER Sight III, Deltapoint PRO , Trijicon RMR.\n
+		%c[d_purple] • %c[ui_gray_2] Aimpoint T1 (Low), DOCTER Sight III, Deltapoint PRO, Trijicon RMR.\n
 		%c[d_purple] • %c[ui_gray_2] Tritium sights & Tactical laser aiming module.\n
 		%c[d_purple] • %c[ui_gray_2] 5.7x28mm compatible suppressor.</text>
 	</string>
@@ -1488,10 +1513,17 @@
 <!--
 	Blackmarket Weapon Descriptions WP 1
 -->
-	<string id="st_wpn_9a91_descr">
+	<string id="st_wpn_9a91_descr">		<!-- Not used since 0.9.1 -->
 		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_red]Warsaw •··\n \n%c[ui_gray_2]Chambered in 9x39mm. The 9A91 is a gas operated, rotating bolt weapon, which utilises a long stroke gas piston, located above the barrel, and a rotating bolt with 4 lugs. The receiver is made from steel stampings, the forend and pistol grip are made from polymer. The steel stock folds up and above the receiver when not in use. The flip up rear sight has settings for 100 and 200 metres range, but the relatively short sight base and steep trajectory of the subsonic bullet restricts the 9A-91 to ranges of about 100 metres.\n \n
 		%c[d_green]  • %c[ui_gray_2] ATTACHMENTS:\n
 		%c[d_purple] • %c[ui_gray_2] PSO-1M, PSO-1M2-1, 1P29 "Tulip",  EKP 1S-03 Kobra.\n
+		%c[d_purple] • %c[ui_gray_2] 9A-91/VSK-94 compatible suppressor.</text>
+	</string>
+	
+	<string id="st_wpn_9a91n_descr">
+		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_red]Warsaw •··\n \n%c[ui_gray_2]Chambered in 9x39mm. The 9A91 is a gas operated, rotating bolt weapon, which utilises a long stroke gas piston, located above the barrel, and a rotating bolt with 4 lugs. The receiver is made from steel stampings, the forend and pistol grip are made from polymer. The steel stock folds up and above the receiver when not in use. The flip up rear sight has settings for 100 and 200 metres range, but the relatively short sight base and steep trajectory of the subsonic bullet restricts the 9A-91 to ranges of about 100 metres.\n \n
+		%c[d_green]  • %c[ui_gray_2] ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] Various sights and scopes for dovetail mount (check details).\n
 		%c[d_purple] • %c[ui_gray_2] 9A-91/VSK-94 compatible suppressor.</text>
 	</string>
 	
@@ -2167,10 +2199,17 @@
 		%c[d_purple] • %c[ui_gray_2] APS compatible suppressor (after modification).</text>
 	</string>
 	
-	<string id="st_wpn_pp2000_descr">
+	<string id="st_wpn_pp2000_descr">		<!-- Not used since 0.9.1 -->
 		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_red]Warsaw ••·\n \n%c[ui_gray_2]The PP-2000 is the latest development of the Instrument Design Bureau (KBP) from Tula, Russia. First displayed to the public in 2004, the patent for its layout has been filed in 2001 and was issued in 2003. The niche for the PP-2000 is a personal defence weapon for non-infantry military personnel, as well as close combat weapon for special forces and special law enforcement teams. As such, it is a compact weapon with few parts for reliability, simplified maintenance and low cost. Best suited for close combat.\n \n
 		%c[d_green]  • %c[ui_gray_2] ATTACHMENTS:\n
 		%c[d_purple] • %c[ui_gray_2] Barska ES AC10632, ACOG x4, EOTech 553.\n
+		%c[d_purple] • %c[ui_gray_2] 9x19 compatible suppressor.</text>
+	</string>
+	
+	<string id="st_wpn_pp2000n_descr">
+		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_red]Warsaw ••·\n \n%c[ui_gray_2]The PP-2000 is the latest development of the Instrument Design Bureau (KBP) from Tula, Russia. First displayed to the public in 2004, the patent for its layout has been filed in 2001 and was issued in 2003. The niche for the PP-2000 is a personal defence weapon for non-infantry military personnel, as well as close combat weapon for special forces and special law enforcement teams. As such, it is a compact weapon with few parts for reliability, simplified maintenance and low cost. Best suited for close combat.\n \n
+		%c[d_green]  • %c[ui_gray_2] ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] Various sights and scopes for Picatinny/Weaver rail (check details).\n
 		%c[d_purple] • %c[ui_gray_2] 9x19 compatible suppressor.</text>
 	</string>
 	
@@ -2268,10 +2307,17 @@
 		%c[d_purple] • %c[ui_gray_2] PBS-1 compatible suppressor.</text>
 	</string>
 	
-	<string id="st_wpn_vihr_descr">
+	<string id="st_wpn_vihr_descr">			<!-- Not used since 0.9.1 -->
 		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_red]Warsaw ••·\n \n%c[ui_gray_2]The SR-3 "Vikhr" ("Whirlwind") compact assault rifle was developed in CNIITochMash and manufactured by Tula Arms Plant. Initially known as "MA" (Malogabaritnyj Avtomat - small size assault rifle), it was based on the suppressed 9x39mm AS-Val assault rifle, and intended for concealed carry by special VIP protection teams and State Security operatives, SR3M Vikhr is result of combining the qualities of SR-3, AS VAL and VSS Vintorez. SR-3M also has a larger capacity of 30 rounds, which also provides more reliable feeding during automatic fire.\n \n
 		%c[d_green]  • %c[ui_gray_2] ATTACHMENTS:\n
 		%c[d_purple] • %c[ui_gray_2] PSO-1M, PSO-1M2-1, 1P29 "Tulip",  EKP 1S-03 Kobra.\n
+		%c[d_purple] • %c[ui_gray_2] SR-3M compatible suppressor.</text>
+	</string>
+	
+	<string id="st_wpn_vihrn_descr">
+		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_red]Warsaw ••·\n \n%c[ui_gray_2]The SR-3 "Vikhr" ("Whirlwind") compact assault rifle was developed in CNIITochMash and manufactured by Tula Arms Plant. Initially known as "MA" (Malogabaritnyj Avtomat - small size assault rifle), it was based on the suppressed 9x39mm AS-Val assault rifle, and intended for concealed carry by special VIP protection teams and State Security operatives, SR3M Vikhr is result of combining the qualities of SR-3, AS VAL and VSS Vintorez. SR-3M also has a larger capacity of 30 rounds, which also provides more reliable feeding during automatic fire.\n \n
+		%c[d_green]  • %c[ui_gray_2] ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] Various sights and scopes for dovetail mount (check details).\n
 		%c[d_purple] • %c[ui_gray_2] SR-3M compatible suppressor.</text>
 	</string>
 	
@@ -2312,10 +2358,17 @@
 		%c[d_purple] • %c[ui_gray_2] PBS-1 compatible suppressor.</text>
 	</string>
 	
-	<string id="st_wpn_vsk94_descr">
+	<string id="st_wpn_vsk94_descr">		<!-- Not used since 0.9.1 -->
 		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_red]Warsaw ••·\n \n%c[ui_gray_2]The VSK-94 is a 9x39mm suppressed sniper rifle developed by the Russian KBP Instrument Design Bureau as a low-cost alternative to the VSS rifle. The rifle is based on the 9A-91 carbine. The VSK-94 was designed to accurately engage unarmoured targets at ranges up to 400m.\n \n
 		%c[d_green]  • %c[ui_gray_2] ATTACHMENTS:\n
 		%c[d_purple] • %c[ui_gray_2] PSO-1M2-1, 1P29 "Tulip",  EKP 1S-03 Kobra.\n
+		%c[d_purple] • %c[ui_gray_2] 9A-91/VSK-94 compatible suppressor (integrated).</text>
+	</string>
+	
+	<string id="st_wpn_vsk94n_descr">
+		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_red]Warsaw ••·\n \n%c[ui_gray_2]The VSK-94 is a 9x39mm suppressed sniper rifle developed by the Russian KBP Instrument Design Bureau as a low-cost alternative to the VSS rifle. The rifle is based on the 9A-91 carbine. The VSK-94 was designed to accurately engage unarmoured targets at ranges up to 400m.\n \n
+		%c[d_green]  • %c[ui_gray_2] ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] Various sights and scopes for dovetail mount (check details).\n
 		%c[d_purple] • %c[ui_gray_2] 9A-91/VSK-94 compatible suppressor (integrated).</text>
 	</string>
 	
