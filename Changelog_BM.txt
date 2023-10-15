@@ -1,4 +1,15 @@
 -------------------Changelog----------------------------
+2.6.h16
+- Trade pool changes
+	• Desert Eagle custom variants removed from traders.
+	• XM4 added to trade pool as Nato 2 weapon.
+	
+- Fixes
+	• Fixed Forester trade preset to match G.A.M.M.A 0.9.1 (he still buy wp tier 3 weapons)
+	• Fixed Forester dialog line not displaying
+	• Fixed New weapons descriptions (EN/RU)
+	
+	
 2.6.h15
 - Fixes
 	• Fixed dialog lines not being displayed
