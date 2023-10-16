@@ -1,4 +1,7 @@
 -------------------Changelog----------------------------
+2.6.h17
+- Fixed wrong WP/Nato presets
+
 2.6.h16
 - Trade pool changes
 	• Desert Eagle custom variants removed from traders.
