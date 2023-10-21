@@ -1,6 +1,14 @@
 -------------------Changelog----------------------------
+2.6.h18
+- Trade pool changes
+	• FN-2000 added to trade pool as Nato 2 weapon.
+	• FN-2000 and XM4 are now buyable.
+- Fixes
+	• Fixed Descriptions (EN/RU).
+	
 2.6.h17
-- Fixed wrong WP/Nato presets
+- Fixes
+	• Fixed wrong WP/Nato presets.
 
 2.6.h16
 - Trade pool changes
@@ -8,19 +16,19 @@
 	• XM4 added to trade pool as Nato 2 weapon.
 	
 - Fixes
-	• Fixed Forester trade preset to match G.A.M.M.A 0.9.1 (he still buy wp tier 3 weapons)
-	• Fixed Forester dialog line not displaying
-	• Fixed New weapons descriptions (EN/RU)
+	• Fixed Forester trade preset to match G.A.M.M.A 0.9.1 (he still buy wp tier 3 weapons).
+	• Fixed Forester dialog line not displaying.
+	• Fixed New weapons descriptions (EN/RU).
 	
 	
 2.6.h15
 - Fixes
-	• Fixed dialog lines not being displayed
-		• Thanks to @zredvenomz & @iceking79
+	• Fixed dialog lines not being displayed.
+		• Thanks to @zredvenomz & @iceking79.
 	
 2.6.h14
 - Fixes
-	• Missing file leading to crash if you don't use Black Market Mag Redux
+	• Missing file leading to crash if you don't use Black Market Mag Redux.
 	
 2.6.h13
 - Fixes

@@ -631,7 +631,29 @@
 		%c[d_purple] • %c[ui_gray_2] 5.56x45/7.62 NATO compatible suppressor.</text>
     </string>
 	
-	<string id="st_wpn_fn2000_descr">
+	<string id="st_wpn_fn2000_descr">		<!-- Not used since 0.9.1 -->
+		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_blue]NATO  ••·\n \n%c[ui_gray_2]From the late 1980s to early 1990s, FN Herstal began to develop a new rifle. The aim was to produce a modern and modular weapon resulting in the FN F2000 rifle, first displayed to the public in 2001. The F2000 offers all of the popular features of the modern assault rifle such as a compact bullpup layout, ambidextrous handling and a modular design with plenty of options and addons available. So far, the FN F2000 rifle has found only a few buyers, including the Armed Forces of Slovenia and Belgian Special Operations Forces.\n \n
+		%c[d_green]  • %c[ui_gray_2] ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] FN2000 scope (integrated).\n
+		%c[d_purple] • %c[ui_gray_2] 5.56x45/7.62 NATO compatible suppressor.</text>
+	</string>
+	
+	<string id="st_wpn_fn2000e_descr">
+		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_blue]NATO  ••·\n \n%c[ui_gray_2]From the late 1980s to early 1990s, FN Herstal began to develop a new rifle. The aim was to produce a modern and modular weapon resulting in the FN F2000 rifle, first displayed to the public in 2001. The F2000 offers all of the popular features of the modern assault rifle such as a compact bullpup layout, ambidextrous handling and a modular design with plenty of options and addons available. So far, the FN F2000 rifle has found only a few buyers, including the Armed Forces of Slovenia and Belgian Special Operations Forces.\n \n
+		%c[d_green]  • %c[ui_gray_2] ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] FN2000 scope (integrated).\n
+		%c[d_purple] • %c[ui_gray_2] 5.56x45/7.62 NATO compatible suppressor.\n
+		%c[d_purple] • %c[ui_gray_2] M203 compatible grenade launcher.</text>
+	</string>
+	
+	<string id="st_wpn_fn2000e_camo_descr">
+		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_blue]NATO  ••·\n \n%c[ui_gray_2]From the late 1980s to early 1990s, FN Herstal began to develop a new rifle. The aim was to produce a modern and modular weapon resulting in the FN F2000 rifle, first displayed to the public in 2001. The F2000 offers all of the popular features of the modern assault rifle such as a compact bullpup layout, ambidextrous handling and a modular design with plenty of options and addons available. So far, the FN F2000 rifle has found only a few buyers, including the Armed Forces of Slovenia and Belgian Special Operations Forces.\n \n
+		%c[d_green]  • %c[ui_gray_2] ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] FN2000 scope (integrated).\n
+		%c[d_purple] • %c[ui_gray_2] 5.56x45/7.62 NATO compatible suppressor.</text>
+	</string>
+	
+	<string id="st_wpn_fn2000e_custom_descr">
 		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_blue]NATO  ••·\n \n%c[ui_gray_2]From the late 1980s to early 1990s, FN Herstal began to develop a new rifle. The aim was to produce a modern and modular weapon resulting in the FN F2000 rifle, first displayed to the public in 2001. The F2000 offers all of the popular features of the modern assault rifle such as a compact bullpup layout, ambidextrous handling and a modular design with plenty of options and addons available. So far, the FN F2000 rifle has found only a few buyers, including the Armed Forces of Slovenia and Belgian Special Operations Forces.\n \n
 		%c[d_green]  • %c[ui_gray_2] ATTACHMENTS:\n
 		%c[d_purple] • %c[ui_gray_2] FN2000 scope (integrated).\n
@@ -803,13 +825,20 @@
 		%c[d_purple] • %c[ui_gray_2] 5.56x45/7.62 NATO compatible suppressor.</text>
 	</string>
 	
-	<string id="st_wpn_mp7_descr">
+	<string id="st_wpn_mp7_descr">		<!-- Not used since 0.9.1 -->
 		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_blue]NATO  ••·\n \n%c[ui_gray_2]The Heckler & Koch MP7 (Maschinenpistole 7) is a German personal defence weapon (PDW) designed and manufactured by Heckler & Koch (H&K) and chambered for the HK 4.6x30mm cartridge. It was designed with the new cartridge to meet NATO requirements published in 1989, as these requirements call for a personal defense weapon (PDW) class firearm, with a greater ability to penetrate body armor than current weapons limited to conventional pistol cartridges. The MP7 went into production in 2001.\n \n
 		%c[d_green]  • %c[ui_gray_2] ATTACHMENTS:\n
 		%c[d_purple] • %c[ui_gray_2] Various sights and scopes for Picatinny/Weaver rail (check details).\n
 		%c[d_purple] • %c[ui_gray_2] Tritium sights.\n
 		%c[d_purple] • %c[ui_gray_2] Tactical aiming laser module.\n
 		%c[d_purple] • %c[ui_gray_2] 9x19 compatible suppressor (after modification).</text>
+	</string>
+	
+	<string id="st_wpn_mp7_descr_new">
+		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_blue]NATO  ••·\n \n%c[ui_gray_2]The Heckler & Koch MP7 (Maschinenpistole 7) is a German personal defence weapon (PDW) designed and manufactured by Heckler & Koch (H&K) and chambered for the HK 4.6x30mm cartridge. It was designed with the new cartridge to meet NATO requirements published in 1989, as these requirements call for a personal defense weapon (PDW) class firearm, with a greater ability to penetrate body armor than current weapons limited to conventional pistol cartridges. The MP7 went into production in 2001.\n \n
+		%c[d_green]  • %c[ui_gray_2] ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] Various sights and scopes for Picatinny/Weaver rail (check details).\n
+		%c[d_purple] • %c[ui_gray_2] 5.7x28 compatible suppressor.</text>
 	</string>
 	
 	<string id="st_wpn_m45_descr">
@@ -1161,11 +1190,19 @@
 		%c[d_purple] • %c[ui_gray_2] AAC 7.62 SDN-6 compatible suppressor.</text>
     </string>
 	
-	<string id="st_wpn_fn2000_nimble_descr">
+	<string id="st_wpn_fn2000_nimble_descr">		<!-- Not used since 0.9.1 -->
 		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_blue]NATO  •••\n \n%c[ui_gray_2]From the late 1980s to early 1990s, FN Herstal began to develop a new rifle. The aim was to produce a modern and modular weapon resulting in the FN F2000 rifle, first displayed to the public in 2001. The F2000 offers all of the popular features of the modern assault rifle such as a compact bullpup layout, ambidextrous handling and a modular design with plenty of options and addons available. So far, the FN F2000 rifle has found only a few buyers, including the Armed Forces of Slovenia and Belgian Special Operations Forces. This model has an integrated EOTech sight, which results in slightly lower accuracy, but since this model was aimed for CQC, rate of fire was increased accordingly.\n \n
 		%c[d_green]  • %c[ui_gray_2] ATTACHMENTS:\n
 		%c[d_purple] • %c[ui_gray_2] EOTech sight (integrated).\n
 		%c[d_purple] • %c[ui_gray_2] 5.56x45/7.62 NATO compatible suppressor.</text>
+	</string>
+	
+	<string id="st_wpn_fn2000e_nimble_descr">
+		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_blue]NATO  •••\n \n%c[ui_gray_2]From the late 1980s to early 1990s, FN Herstal began to develop a new rifle. The aim was to produce a modern and modular weapon resulting in the FN F2000 rifle, first displayed to the public in 2001. The F2000 offers all of the popular features of the modern assault rifle such as a compact bullpup layout, ambidextrous handling and a modular design with plenty of options and addons available. So far, the FN F2000 rifle has found only a few buyers, including the Armed Forces of Slovenia and Belgian Special Operations Forces. This model has an integrated EOTech sight, which results in slightly lower accuracy, but since this model was aimed for CQC, rate of fire was increased accordingly.\n \n
+		%c[d_green]  • %c[ui_gray_2] ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] Various sights and scopes for Picatinny/Weaver rail (check details).\n
+		%c[d_purple] • %c[ui_gray_2] 5.56x45/7.62 NATO compatible suppressor.\n
+		%c[d_purple] • %c[ui_gray_2] M203 compatible grenade launcher.</text>
 	</string>
 	
 	<string id="st_wpn_fn57_descr">
