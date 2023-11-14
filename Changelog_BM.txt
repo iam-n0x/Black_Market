@@ -1,5 +1,5 @@
 -------------------Changelog----------------------------
-2.6.h19
+2.6.19
 - Trade pool changes
 	• L85A2 Tactical removed from traders.
 	• L96A1 removed from traders.
