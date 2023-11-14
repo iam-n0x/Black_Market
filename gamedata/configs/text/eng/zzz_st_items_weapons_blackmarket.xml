@@ -482,6 +482,13 @@
 		%c[d_purple] • %c[ui_gray_2] 9x19 compatible suppressor (after modification).</text>
 	</string>
 	
+	<string id="st_wpn_xm4_descr">
+		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_blue]NATO  •··\n \n%c[ui_gray_2]The M4 Carbine descends from a family of firearms tracing its lineage back to earlier carbine versions of the M16, all based on the original AR-15 made by ArmaLite. It is a shorter and lighter version of the M16 assault rifle, sharing 80% of its parts. The M4 fires 5.56x45mm NATO ammunition and are gas operated, air cooled, magazine fed, selective fire firearms with a 4 position telescoping stock. As with many carbines, the M4 is handy and more convenient to carry than a full length rifle. It has been adopted by United States Special Operations Command (USSOCOM) and is the preferred weapon of the U.S. Army Special Forces and Navy SEALs.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] • %c[ui_gray_2] PN-23, SpecterDR, OKP-07 (picatinny), ACOG x4, EOTech XPS3-0, Meprolight.\n
+		%c[d_purple] • %c[ui_gray_2] AAC M4-2000 compatible suppressor.\n</text>
+	</string>
+	
 <!--
 	Blackmarket Weapon Descriptions Nato 2
 -->
@@ -1010,6 +1017,18 @@
 		%c[d_purple] Õ %c[ui_gray_2] M203 compatible grenade launcher.</text>
 	</string>
 	
+	<string id="st_wpn_steyr_scout_descr">
+		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_blue]NATO  ••·\n \n%c[ui_gray_2]The Steyr Scout sniper rifle is a renowned firearm celebrated for its exceptional accuracy and versatility. Chambered in 5.56x45mm ammunition, this rifle combines precision with portability, making it a favorite among marksmen and military professionals. Its compact design and lightweight construction allow for easy maneuverability in various tactical scenarios, while its robust build ensures durability and reliability in the field. Equipped with advanced optics and a user-friendly interface, the Steyr Scout offers quick target acquisition and superior performance at medium to long-range distances. With its 5.56x45mm chambering, it delivers impressive stopping power and exceptional ballistic performance, making it an ideal choice for both urban and open-field operations.\n \n
+		%c[ui_gray_2]ATTACHMENTS:\n
+        %c[d_purple] - %c[ui_gray_2] Surefire SOCOM556-MONSTER suppressor.</text>
+	</string>
+	
+	<string id="st_wpn_steyr_scout_big_descr">
+		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_blue]NATO  ••·\n \n%c[ui_gray_2]The Steyr Scout sniper rifle is a highly regarded firearm known for its precision and adaptability. Chambered in the powerful 7.62x51mm ammunition, this rifle combines formidable stopping power with impressive accuracy, making it a favorite among marksmen and military professionals. Its ergonomic design and lightweight construction allow for easy handling and swift target acquisition, ensuring effectiveness in various tactical situations. The Steyr Scout's robust build guarantees durability and reliability in the harshest environments, making it a trusted choice for snipers and sharpshooters. With its 7.62x51mm chambering, it delivers excellent long-range performance, making it ideal for engaging targets at extended distances with high accuracy and lethal impact.\n \n
+		%c[ui_gray_2]ATTACHMENTS:\n
+        %c[d_purple] - %c[ui_gray_2] Daniel Defence Wave QD suppressor.</text>
+	</string>
+	
 	<string id="st_wpn_svi_descr">
 		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_blue]NATO  ••·\n \n%c[ui_gray_2]Strayer-Voigt Inc. is a manufacturer of M1911-styled modular pistols, this especially includes the Strayer-Voigt Infinity itself, SVI for short. It is a pistol marketed for competition, so it is rather expensive and rare as it's not available for any army or average arms-bearing citizen. How did this even get in The Zone? No doubt from those flamboyant American mercenaries. The pistol itself has the massive benefit of having its own trademark Strayer-Voigt magazine, which holds 15 rounds. It has also been modified in-house to shoot in 3-burst at a fast rate. Oh and, if none of that makes you happy, the tritium optic fiber will, since it's blue. However, don't expect the same good ol' reliability as the classic 1911.\n \n
 		%c[d_green]  • %c[ui_gray_2] ATTACHMENTS:\n
@@ -1083,13 +1102,6 @@
 		%c[d_purple] • %c[ui_gray_2] This weapon was upgraded with a tactical kit.\n
 		%c[d_purple] • %c[ui_gray_2] Tritium sights & Tactical laser aiming module.\n
 		%c[d_purple] • %c[ui_gray_2] Gemtech compatible suppressor.</text>
-	</string>
-	
-	<string id="st_wpn_xm4_descr">
-		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_blue]NATO  ••·\n \n%c[ui_gray_2]The M4 Carbine descends from a family of firearms tracing its lineage back to earlier carbine versions of the M16, all based on the original AR-15 made by ArmaLite. It is a shorter and lighter version of the M16 assault rifle, sharing 80% of its parts. The M4 fires 5.56x45mm NATO ammunition and are gas operated, air cooled, magazine fed, selective fire firearms with a 4 position telescoping stock. As with many carbines, the M4 is handy and more convenient to carry than a full length rifle. It has been adopted by United States Special Operations Command (USSOCOM) and is the preferred weapon of the U.S. Army Special Forces and Navy SEALs.\n \n
-		%c[ui_gray_2]ATTACHMENTS: \n
-		%c[d_purple] • %c[ui_gray_2] PN-23, SpecterDR, OKP-07 (picatinny), ACOG x4, EOTech XPS3-0, Meprolight.\n
-		%c[d_purple] • %c[ui_gray_2] AAC M4-2000 compatible suppressor.\n</text>
 	</string>
 	
 	<string id="st_wpn_xm8_descr">
@@ -1660,14 +1672,6 @@
 		%c[d_purple] • %c[ui_gray_2] ATG compatible suppressor.</text>
 	</string>
 	
-	<string id="st_wpn_ak105_descr">
-		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_red]Warsaw •··\n \n%c[ui_gray_2]The AK-105 is a 5.45x39mm carbine version of the AK-74M rifle. The AK-105 is supplementing AKS-74U carbines in Russian Army service. Ideal for CQC (close quarters combat), it's not intended for long range combat. The rifle's reiver is made of stamped steel; the magazine is made out of reinforced fibreglass and the stock is made of hollow plastic, making it lighter, more durable, and allowing a field kit to be stored inside of it.\n \n
-		%c[d_green]  • %c[ui_gray_2] ATTACHMENTS:\n
-		%c[d_purple] • %c[ui_gray_2] This weapon can be upgraged with a tactical kit (check details).\n
-		%c[d_purple] • %c[ui_gray_2] Various sights and scopes for Warsaw pact mount (check details).\n
-		%c[d_purple] • %c[ui_gray_2] TGP-A compatible suppressor.</text>
-	</string>
-	
 	<string id="st_wpn_akm_descr">
 		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_red]Warsaw •··\n \n%c[ui_gray_2]The AKM is a 7.62x39mm assault rifle designed by Mikhail Kalashnikov. It is an improved version of the AK-47 rifle and was developed in the 1950's. Introduced to the Red Army in 1959, the AKM is the most ubiquitous variant of the AK series of firearms and it has found widespread use with the former Warsaw Pact states and its many African and Asian allies. The production of AKM rifles was carried out at the Tula Arsenal and Izhevsk Mechanical Works.\n \n
 		%c[d_green]  • %c[ui_gray_2] ATTACHMENTS:\n
@@ -2000,6 +2004,14 @@
 		%c[d_purple] • %c[ui_gray_2] 5.45/7.62x39 Hexagon compatible suppressor.\n
 		%c[d_purple] • %c[ui_gray_2] GP-25 compatible grenade launcher.</text>
     </string>
+	
+	<string id="st_wpn_ak105_descr">
+		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_red]Warsaw ••·\n \n%c[ui_gray_2]The AK-105 is a 5.45x39mm carbine version of the AK-74M rifle. The AK-105 is supplementing AKS-74U carbines in Russian Army service. Ideal for CQC (close quarters combat), it's not intended for long range combat. The rifle's reiver is made of stamped steel; the magazine is made out of reinforced fibreglass and the stock is made of hollow plastic, making it lighter, more durable, and allowing a field kit to be stored inside of it.\n \n
+		%c[d_green]  • %c[ui_gray_2] ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] This weapon can be upgraged with a tactical kit (check details).\n
+		%c[d_purple] • %c[ui_gray_2] Various sights and scopes for Warsaw pact mount (check details).\n
+		%c[d_purple] • %c[ui_gray_2] TGP-A compatible suppressor.</text>
+	</string>
 	
 	<string id="st_wpn_ak74m_descr">
 		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_red]Warsaw ••·\n \n%c[ui_gray_2]In 1991, the Izhmash factory began production of an improved AK-74 - the AK-74M assault rifle. Apart from several minor production improvements, the rifle also features a new foldable synthetic stock made from a black, glass-filled polyamide. The AK-74M also uses a reinforced muzzle device and dust cover. Each AK-74M is fitted with a side-rail bracket for mounting optics. The AK-74M has been accepted as the new service rifle of the Russian Federation.\n \n
