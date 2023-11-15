@@ -1,4 +1,24 @@
 -------------------Changelog----------------------------
+2.6.19
+- Trade pool changes
+	• L85A2 Tactical removed from traders.
+	• L96A1 removed from traders.
+	• AK-105 "Specialist" removed from traders.
+	• USP "Match Tactical" removed from traders.
+	• HS2000 removed from traders.
+	• Glock19 added to traders. (Tier 2 Nato)
+	• Scout 5.56 & 7.62 added to traders. (Tier 2 Nato)
+	• Winchester added to trader. (Tier 1 Nato)
+	• XM4 moved to Nato 1.
+	• AK105 moved to WP 2.
+- Pricing changes
+	• AK105 "Swamp" & "Shakal" base cost aligned with ak105 + upgrades.
+	• AK12 "Monolith 1.0" base cost reduced
+	• AK12 "Monolith 2.0" base cost aligned with 1.0 + upgrade.
+- Fixes
+	• Fixed Cutter dialog line not displaying.
+	• zzzz_arti_jamming_repairs.script updated.
+
 2.6.h18
 - Trade pool changes
 	• FN-2000 added to trade pool as Nato 2 weapon.

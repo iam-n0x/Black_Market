@@ -460,6 +460,22 @@
 		%c[d_purple] • %c[ui_gray_2] глушитель НАТО\n
 		%c[d_purple] • %c[ui_gray_2] прицелы ACOG, Barska ES AC10632, «EOTech»\n \n</text>
 	</string>
+	
+	<string id="st_wpn_winchester1873_descr">
+		<text>%c[d_blue]NATO  •··\n \n %c[ui_gray_2]
+		The Winchester 1873 lever-action rifle, often referred to as the "Gun that Won the West," is a historic and iconic firearm introduced in 1873 by the Winchester Repeating Arms Company. Known for its reliability and innovation, this rifle played a significant role in the American frontier and beyond. Chambered in various popular calibers of the time, such as .44-40 and .38-40, it featured a distinctive lever mechanism that allowed for rapid and efficient reloading, making it a favorite among cowboys, lawmen, and outlaws alike. Its elegant design, smooth action, and remarkable durability contributed to its legendary status, making it a prized collector's item today. The Winchester 1873 lever-action rifle symbolizes the spirit of the Wild West and remains an enduring symbol of American firearm history. Adapted to use both .357 ammunition and a modern scope for easier access.\n \n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] - %c[ui_gray_2] Scopes: PSO-1 Scope.</text>
+	</string>
+	
+	<string id="st_wpn_xm4_descr">
+		<text>%c[d_blue]NATO  •··\n \n %c[ui_gray_2]
+		Автомат, созданный в США на основе М16А2 изначально для вооружения экипажей боевых машин и расчётов техники. Несмотря на это, Командование Специальных Операций США (US SOCOM) приняло этот автомат в качестве единого для всех американских сил специальных операций. В настоящее время на него переходит и вся Армия США, так как большее удобство укороченного карабина в современных условиях, когда большую часть армии составляют мотопехота, экипажи боевых машин и вспомогательные войска, является очень серьёзным достоинством. Основными отличиями М4 от М16А2 являются ствол меньшей длины и выдвижной телескопический приклад.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] • %c[ui_gray_2] Прицелы: PN-23, SpecterDR, OKP-07 (picatinny), ACOG x4, EOTech XPS3-0, Meprolight.\n
+		%c[d_purple] • %c[ui_gray_2] глушитель: ADVANCED ARMAMENT (AAC) M4-2000\n</text>
+	</string>
+	
 <!--
 	Blackmarket Weapon Descriptions Nato 2
 -->
@@ -1060,6 +1076,20 @@
 		%c[ui_gray_2]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n
 		%c[d_purple] • %c[ui_gray_2] прицелы ACOG, Barska ES AC10632, «EOTech»\n \n</text>
 	</string>
+	<string id="st_wpn_steyr_scout_descr">
+		<text>%c[d_blue]NATO ••·\n \n %c[ui_gray_2]
+		The Steyr Scout sniper rifle is a renowned firearm celebrated for its exceptional accuracy and versatility. Chambered in 5.56x45mm ammunition, this rifle combines precision with portability, making it a favorite among marksmen and military professionals. Its compact design and lightweight construction allow for easy maneuverability in various tactical scenarios, while its robust build ensures durability and reliability in the field. Equipped with advanced optics and a user-friendly interface, the Steyr Scout offers quick target acquisition and superior performance at medium to long-range distances. With its 5.56x45mm chambering, it delivers impressive stopping power and exceptional ballistic performance, making it an ideal choice for both urban and open-field operations.\n \n
+		%c[ui_gray_2]ATTACHMENTS:\n
+        %c[d_purple] - %c[ui_gray_2] Surefire SOCOM556-MONSTER suppressor.</text>
+	</string>
+	
+	<string id="st_wpn_steyr_scout_big_descr">
+		<text>%c[d_blue]NATO ••·\n \n %c[ui_gray_2]
+		The Steyr Scout sniper rifle is a highly regarded firearm known for its precision and adaptability. Chambered in the powerful 7.62x51mm ammunition, this rifle combines formidable stopping power with impressive accuracy, making it a favorite among marksmen and military professionals. Its ergonomic design and lightweight construction allow for easy handling and swift target acquisition, ensuring effectiveness in various tactical situations. The Steyr Scout's robust build guarantees durability and reliability in the harshest environments, making it a trusted choice for snipers and sharpshooters. With its 7.62x51mm chambering, it delivers excellent long-range performance, making it ideal for engaging targets at extended distances with high accuracy and lethal impact.\n \n
+		%c[ui_gray_2]ATTACHMENTS:\n
+        %c[d_purple] - %c[ui_gray_2] Daniel Defence Wave QD suppressor.</text>
+	</string>
+	
 	<string id="st_wpn_svi_descr">
 		<text>%c[d_blue]NATO  ••·\n \n %c[ui_gray_2]
 		Strayer-Voigt Inc. является производителем модульных пистолетов на базе M1911, в том числе Strayer-Voigt Infinity, SVI для краткости. Это спортивный пистолет, поэтому он довольно дорогой и редкий, и потому он недоступен для любой армии или простого вооруженного гражданина. Как он вообще попал в Зону? Вероятно, с американскими наёмниками, возможно даже с теми, что сопровождали охотников на химер. Основное преимущество этого пистолета в 15-зарядном магазине, что является его визитной карточкой. Кроме того, в нём устанволен УСМ с режим стрельбы очередями и как вишенка на торте - синие тритиевые марки в мушке и целике. Но не думайте, более точная подгонка деталей и режим стрельбы очередями не сказать что хорошо сказывается на надёжности. \n \n
@@ -1083,13 +1113,6 @@
 		%c[ui_gray_2]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n
 		%c[d_purple] • %c[ui_gray_2] Установлен тактический набор, включающий в себя: удлинённый ствол с резьбой для установки ПБС, прицельные приспособления с тритиевыми вставками и ЛЦУ Viridian X5L, позволяющий эффективно вести огонь практически из любого положения. Данная модернизация является необратимой.\n
 		%c[d_purple] • %c[ui_gray_2] глушитель: Gemtech\n </text>
-	</string>
-	<string id="st_wpn_xm4_descr">
-		<text>%c[d_blue]NATO  ••·\n \n %c[ui_gray_2]
-		Автомат, созданный в США на основе М16А2 изначально для вооружения экипажей боевых машин и расчётов техники. Несмотря на это, Командование Специальных Операций США (US SOCOM) приняло этот автомат в качестве единого для всех американских сил специальных операций. В настоящее время на него переходит и вся Армия США, так как большее удобство укороченного карабина в современных условиях, когда большую часть армии составляют мотопехота, экипажи боевых машин и вспомогательные войска, является очень серьёзным достоинством. Основными отличиями М4 от М16А2 являются ствол меньшей длины и выдвижной телескопический приклад.\n \n
-		%c[ui_gray_2]ATTACHMENTS: \n
-		%c[d_purple] • %c[ui_gray_2] Прицелы: PN-23, SpecterDR, OKP-07 (picatinny), ACOG x4, EOTech XPS3-0, Meprolight.\n
-		%c[d_purple] • %c[ui_gray_2] глушитель: ADVANCED ARMAMENT (AAC) M4-2000\n</text>
 	</string>
 	
 <!--
@@ -1839,14 +1862,6 @@
 		<text>%c[d_red]Warsaw •··\n \n %c[ui_gray_2]
 		MP-133 - российское гладкоствольное ружьё, которое применяется для различных видов охоты, спортивной стрельбы, охраны и самообороны. Ружьё разработано на базе ружья ИЖ-81 и серийно выпускается Ижевским механическим заводом с 2000 года.\n \n</text>
 	</string>
-	<string id="st_wpn_ak105_descr">
-		<text>%c[d_red]Warsaw •··\n \n %c[ui_gray_2]
-		Компактный автомат Калашникова «сотой» серии, предназначенный для замены АКС-74У в подразделениях Российской армии и правоохранительных органов. Является модификацией АК-74М и отличается от него укороченным стволом и пламегасителем. Автомат выполнен со складывающимся прикладом. Приклад, магазин, цевьё, ствольная накладка и пистолетная рукоятка изготовлены из пластмассы и обладают высокой ударопрочностью и стойкостью к внешним воздействиям. Применение защитных покрытий обеспечивает высокую коррозийную стойкость металлических деталей. На АК-105 имеется боковая планка для установки оптических и ночных прицелов.\n \n
-		%c[ui_gray_2]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n
-		%c[d_purple] • %c[ui_gray_2] прицелы: Все прицелы для ласточкин хвост кроме прицелов ПСО с наглазником и 1П59 Гиперон.\n
-		%c[d_purple] • %c[ui_gray_2] Имеется возможность улучшить оружие с помощью тактического набора.\n 
-		%c[d_purple] • %c[ui_gray_2] глушитель: ТГП-А\n \n</text>
-	</string>
 	<string id="st_wpn_aks74_descr">
 		<text>%c[d_red]Warsaw •··\n \n %c[ui_gray_2]
 		Будучи более точным и надёжным автоматом, нежели АКМ, АК-74 до сих пор используется в большинстве стран бывшего СССР. АКС-74 оснащён складывающимся металлическим прикладом и предназначен в первую очередь для десантно-штурмовой пехоты. В Зоне это основное оружие военных сталкеров и многих одиночек.\n \n
@@ -1940,7 +1955,15 @@
 <!--
 	Blackmarket Weapon Descriptions WP 2
 -->
-
+	
+	<string id="st_wpn_ak105_descr">
+		<text>%c[d_red]Warsaw ••·\n \n %c[ui_gray_2]
+		Компактный автомат Калашникова «сотой» серии, предназначенный для замены АКС-74У в подразделениях Российской армии и правоохранительных органов. Является модификацией АК-74М и отличается от него укороченным стволом и пламегасителем. Автомат выполнен со складывающимся прикладом. Приклад, магазин, цевьё, ствольная накладка и пистолетная рукоятка изготовлены из пластмассы и обладают высокой ударопрочностью и стойкостью к внешним воздействиям. Применение защитных покрытий обеспечивает высокую коррозийную стойкость металлических деталей. На АК-105 имеется боковая планка для установки оптических и ночных прицелов.\n \n
+		%c[ui_gray_2]НАВЕСНОЕ ОБОРУДОВАНИЕ: \n
+		%c[d_purple] • %c[ui_gray_2] прицелы: Все прицелы для ласточкин хвост кроме прицелов ПСО с наглазником и 1П59 Гиперон.\n
+		%c[d_purple] • %c[ui_gray_2] Имеется возможность улучшить оружие с помощью тактического набора.\n 
+		%c[d_purple] • %c[ui_gray_2] глушитель: ТГП-А\n \n</text>
+	</string>
 	<string id="st_wpn_pp2000_descr">			<!-- Not used since 0.9.1 -->
 		<text>%c[d_red]Warsaw ••·\n \n %c[ui_gray_2]
 		ПП-2000 - российский 9-мм пистолет-пулемёт, разработанный коллективом конструкторов тульского КБ приборостроения под руководством В.П. Грязева и А.Г. Шипунова. ПП-2000 позиционируется как оружие для подразделений правоохранительных органов, действующих в городских условиях, а также как личное оружие самообороны для отдельных категорий военнослужащих. В 2006 году началось серийное производство ПП-2000 для МВД РФ. Корпус выполнен из высокопрочного пластика. Канал ствола хромирован, также может комплектоваться глушителем, коллиматорным и оптическим прицелом, на крышке ствольной коробки серийных ПП-2000 установлена универсальная прицельная планка.\n \n
