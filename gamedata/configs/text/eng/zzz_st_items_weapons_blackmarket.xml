@@ -482,6 +482,12 @@
 		%c[d_purple] • %c[ui_gray_2] 9x19 compatible suppressor (after modification).</text>
 	</string>
 	
+	<string id="st_wpn_winchester1873_descr">
+		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_blue]NATO  •··\n \n%c[ui_gray_2]The Winchester 1873 lever-action rifle, often referred to as the "Gun that Won the West," is a historic and iconic firearm introduced in 1873 by the Winchester Repeating Arms Company. Known for its reliability and innovation, this rifle played a significant role in the American frontier and beyond. Chambered in various popular calibers of the time, such as .44-40 and .38-40, it featured a distinctive lever mechanism that allowed for rapid and efficient reloading, making it a favorite among cowboys, lawmen, and outlaws alike. Its elegant design, smooth action, and remarkable durability contributed to its legendary status, making it a prized collector's item today. The Winchester 1873 lever-action rifle symbolizes the spirit of the Wild West and remains an enduring symbol of American firearm history. Adapted to use both .357 ammunition and a modern scope for easier access.\n \n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] - %c[ui_gray_2] Scopes: PSO-1 Scope.</text>
+	</string>
+	
 	<string id="st_wpn_xm4_descr">
 		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_blue]NATO  •··\n \n%c[ui_gray_2]The M4 Carbine descends from a family of firearms tracing its lineage back to earlier carbine versions of the M16, all based on the original AR-15 made by ArmaLite. It is a shorter and lighter version of the M16 assault rifle, sharing 80% of its parts. The M4 fires 5.56x45mm NATO ammunition and are gas operated, air cooled, magazine fed, selective fire firearms with a 4 position telescoping stock. As with many carbines, the M4 is handy and more convenient to carry than a full length rifle. It has been adopted by United States Special Operations Command (USSOCOM) and is the preferred weapon of the U.S. Army Special Forces and Navy SEALs.\n \n
 		%c[ui_gray_2]ATTACHMENTS: \n

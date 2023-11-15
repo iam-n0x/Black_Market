@@ -8,6 +8,7 @@
 	• HS2000 removed from traders.
 	• Glock19 added to traders. (Tier 2 Nato)
 	• Scout 5.56 & 7.62 added to traders. (Tier 2 Nato)
+	• Winchester added to trader. (Tier 1 Nato)
 	• XM4 moved to Nato 1.
 	• AK105 moved to WP 2.
 - Pricing changes

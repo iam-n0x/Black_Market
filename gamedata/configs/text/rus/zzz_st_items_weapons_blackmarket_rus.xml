@@ -460,6 +460,14 @@
 		%c[d_purple] • %c[ui_gray_2] глушитель НАТО\n
 		%c[d_purple] • %c[ui_gray_2] прицелы ACOG, Barska ES AC10632, «EOTech»\n \n</text>
 	</string>
+	
+	<string id="st_wpn_winchester1873_descr">
+		<text>%c[d_blue]NATO  •··\n \n %c[ui_gray_2]
+		The Winchester 1873 lever-action rifle, often referred to as the "Gun that Won the West," is a historic and iconic firearm introduced in 1873 by the Winchester Repeating Arms Company. Known for its reliability and innovation, this rifle played a significant role in the American frontier and beyond. Chambered in various popular calibers of the time, such as .44-40 and .38-40, it featured a distinctive lever mechanism that allowed for rapid and efficient reloading, making it a favorite among cowboys, lawmen, and outlaws alike. Its elegant design, smooth action, and remarkable durability contributed to its legendary status, making it a prized collector's item today. The Winchester 1873 lever-action rifle symbolizes the spirit of the Wild West and remains an enduring symbol of American firearm history. Adapted to use both .357 ammunition and a modern scope for easier access.\n \n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] - %c[ui_gray_2] Scopes: PSO-1 Scope.</text>
+	</string>
+	
 	<string id="st_wpn_xm4_descr">
 		<text>%c[d_blue]NATO  •··\n \n %c[ui_gray_2]
 		Автомат, созданный в США на основе М16А2 изначально для вооружения экипажей боевых машин и расчётов техники. Несмотря на это, Командование Специальных Операций США (US SOCOM) приняло этот автомат в качестве единого для всех американских сил специальных операций. В настоящее время на него переходит и вся Армия США, так как большее удобство укороченного карабина в современных условиях, когда большую часть армии составляют мотопехота, экипажи боевых машин и вспомогательные войска, является очень серьёзным достоинством. Основными отличиями М4 от М16А2 являются ствол меньшей длины и выдвижной телескопический приклад.\n \n
