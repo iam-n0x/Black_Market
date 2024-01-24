@@ -1582,6 +1582,13 @@
 		%c[d_purple] • %c[ui_gray_2] 9A-91/VSK-94 compatible suppressor.</text>
 	</string>
 	
+	<string id="st_wpn_adar2_15_descr">
+		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_red]Warsaw •··\n \n%c[ui_gray_2]A Russian civilian carbine produced in St. Petersburg and based on the design of the AR-15. As in the case of many other companies that make AR-15s, ADAR doesn’t actually manufacture these rifles but rather assembles them from parts sourced from a variety of manufacturers.\n \n
+		%c[d_green]  • %c[ui_gray_2] ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] Various sights and scopes for Picatinny/Weaver rail (check details).\n
+		%c[d_purple] • %c[ui_gray_2] AAC M4-2000 compatible suppressor.</text>
+	</string>
+	
 	<string id="st_wpn_ak_descr">
 		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_red]Warsaw •··\n \n%c[ui_gray_2]The AK-47 can be described as a hybrid of previous rifle technology. Mikhail Kalashnikov designed this automatic rifle combining the best features of the American M1 and the German StG44. The Kalashnikov is a gas operated 7.62x39 assault rifle and by far the most prolific small arm of the 2nd half of the 20th century. It had been and still is, in more or less modified form, manufactured in dozens of countries and has been used in hundreds of conflicts since its introduction.\n \n
 		%c[d_green]  • %c[ui_gray_2] ATTACHMENTS:\n
@@ -2397,6 +2404,13 @@
 		%c[d_purple] • %c[ui_gray_2] VSS compatible suppressor (integrated).</text>
 	</string>
 	
+	<string id="st_wpn_vintorez_nimble_descr">
+		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_red]Warsaw ••·\n \n%c[ui_gray_2]A special variant of the famous VSS sniper rifle. This model has been extensively customised. Its internal mechanism has been replaced with a better one, which results in increased muzzle velocity and accuracy. It has an effective range of up to 600 metres.\n \n
+		%c[d_green]  • %c[ui_gray_2] ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] PSO-1 scope (integrated).\n
+		%c[d_purple] • %c[ui_gray_2] VSS/VAL compatible suppressor (integrated).</text>
+	</string>
+	
 <!--NOT USED ANYMORE
 	<string id="st_wpn_vityaz_descr">
 		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_red]Warsaw ••·\n \n%c[ui_gray_2]A variant of PP-19 with 30-round magazine chambered for 9x19mm, designed in 2004. It is used by patrol groups, Russian traffic police, Russian security police, and by units of the MVD.\n \n
@@ -2503,6 +2517,22 @@
 		%c[d_purple] • %c[ui_gray_2] Rifle Dynamics ISG compatible suppressor.</text>
 	</string>
 	
+	<string id="st_wpn_am17_descr">
+		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_red]Warsaw •••\n \n%c[ui_gray_2]AM-17 is an assault rifle that uses standard intermediate cartridge 5.45?39mm 7N10 cartridge. It was developed and manufactured by in the late 2010s by Kalashnikov Concern based on the Yevgeny Dragunov MA Compact Rifle. The weapon is intended for use as a close quarters weapon.\n \n
+		%c[d_green]  • %c[ui_gray_2] ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] Various sights and scopes for Picatinny/Weaver rail (check details).\n
+		%c[d_purple] • %c[ui_gray_2] Tactical laser aiming module.\n
+		%c[d_purple] • %c[ui_gray_2] ATG compatible suppressor.</text>
+	</string>
+	
+	<string id="st_wpn_amb17_descr">
+		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_red]Warsaw •••\n \n%c[ui_gray_2]The AMB-17 is an integrally suppressed assault rifle that uses a heavy subsonic 9?39mm SP5 cartridge and armor-piercing SP6 cartridge. It was developed and manufactured in the late 2010s by Kalashnikov Concern, based on the Yevgeny Dragunov MA Compact Rifle.The weapon is intended for use as a close quarters weapon.\n \n
+		%c[d_green]  • %c[ui_gray_2] ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] Various sights and scopes for Picatinny/Weaver rail (check details).\n
+		%c[d_purple] • %c[ui_gray_2] Tactical laser aiming module.\n
+		%c[d_purple] • %c[ui_gray_2] Integrated suppressor.</text>
+	</string>
+	
 	<string id="st_wpn_ash12_descr">
 		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_red]Warsaw •••\n \n%c[ui_gray_2]The ASh-12.7 (ÀØ-12.7, which stands for "Àâòîìàò øòóðìîâîé 12.7ìì" or "Automatic assault rifle, 12.7mm") battle rifle is a dedicated CQB/Urban Operations weapon, developed by TsKIB SOO ("Central Design and Research Bureau of Sporting and Hunting Arms"), a subsidiary of the KBP Instrument Design Bureau of Tula, Russia, by request from the Russian FSB (Federal Security Service). The weapon was designed with extreme short-range stopping power in mind because it is intended for special units of the FSB which operate in urban environments against heavily armed and organized gangsters and terrorists who need to be killed in one shot. According to the Russian press, the first batch of ASh-12.7 assault rifles was delivered to the FSB.\n \n
 		%c[d_green]  • %c[ui_gray_2] ATTACHMENTS:\n
@@ -2582,14 +2612,42 @@
 		%c[d_purple] • %c[ui_gray_2] PL-15 compatible suppressor.</text>
 	</string>
 	
-	<string id="st_wpn_pkp_descr">
-		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_red]Warsaw •••\n \n%c[ui_gray_2]The PKP "Pecheneg" is a Russian light machine gun chambered for the 7.62x54mmR round. It is a modernised PKM machine gun. The Pecheneg is said to be more accurate than all its predecessors due to a heavier, non-removable, forced air cooling barrel with radial cooling ribs and a handle which eliminates the haze effect from hot gases and keeps the barrel cooler, making the weapon more reliable.</text>
+	<string id="st_wpn_pkm">
+		<text>PKM</text>
+	</string>
+	<string id="st_wpn_pkm_short">
+		<text>PKM</text>
+	</string>
+	<string id="st_wpn_pkm_descr">
+		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_red]Warsaw •••\n \n%c[ui_gray_2]A modernized and improved version of the PK, the PKM's upgrades were primarily aimed at reducing weight, facilitating easier operation and simplifying production. A very reliable machine gun that remains in use as a front-line infantry and vehicle-mounted weapon with Russia's armed forces.</text>
+	</string>
+	
+	<string id="st_wpn_pkm_siber_descr">
+		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_red]Warsaw •••\n \n%c[ui_gray_2]A modernized and improved version of the PK, the PKM's upgrades were primarily aimed at reducing weight, facilitating easier operation and simplifying production. A very reliable machine gun that remains in use as a front-line infantry and vehicle-mounted weapon with Russia's armed forces.</text>
+	</string>
+	
+	<string id="st_wpn_pkm_zenit_siber_descr">
+		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_red]Warsaw •••\n \n%c[ui_gray_2]A modernized and improved version of the PK, the PKM's upgrades were primarily aimed at reducing weight, facilitating easier operation and simplifying production. A very reliable machine gun that remains in use as a front-line infantry and vehicle-mounted weapon with Russia's armed forces. This model has been manually altered to include an enlarged ammo box. This model has been extensively modified.\n \n
+		%c[d_green]  • %c[ui_gray_2] ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] Various sights and scopes for Picatinny/Weaver rail (check details).\n
+		%c[d_purple] • %c[ui_gray_2] TGP-V compatible suppressor.</text>
 	</string>
 	
 	<string id="st_wpn_pkm_zulus_descr">
 		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_red]Warsaw •••\n \n%c[ui_gray_2]This weapon was previously owned by Zulu. Its special features include an enlarged ammo box and a particularly reliable retracting mechanism design. The modifications meant an increase in the weapon's weight, but that wasn't a problem for the last owner.\n \n
 		%c[d_green]  • %c[ui_gray_2] ATTACHMENTS:\n
 		%c[d_purple] • %c[ui_gray_2] EKP-1S-03 Kobra sight (integrated).</text>
+	</string>
+	
+	<string id="st_wpn_pkp_descr">
+		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_red]Warsaw •••\n \n%c[ui_gray_2]The PKP "Pecheneg" is a Russian light machine gun chambered for the 7.62x54mmR round. It is a modernised PKM machine gun. The Pecheneg is said to be more accurate than all its predecessors due to a heavier, non-removable, forced air cooling barrel with radial cooling ribs and a handle which eliminates the haze effect from hot gases and keeps the barrel cooler, making the weapon more reliable.</text>
+	</string>
+	
+	<string id="st_wpn_pkp_siber_descr">
+		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_red]Warsaw •••\n \n%c[ui_gray_2]A modernized PKM machine gun chambered for the 7.62x54mm round, said to be more accurate than all its predecessors due to a heavier, non-removable forced air cooling barrel with radial cooling ribs and a unique handle which eliminates the haze effect from hot gases. Currently in use by Russian Army Spetsnaz and, though it was developed mainly for infantry use, is often fitted to light vehicles.\n \n
+		%c[d_green]  • %c[ui_gray_2] ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] Various sights and scopes for dovetail mount (check details).\n
+		%c[d_purple] • %c[ui_gray_2] TGP-V compatible suppressor.</text>
 	</string>
 	
 	<string id="st_wpn_rp_descr">	<!-- wpn_pkm in debug mode -->
@@ -2734,14 +2792,6 @@
 		%c[d_purple] • %c[ui_gray_2] Tactical laser aiming module.\n
 		%c[d_purple] • %c[ui_gray_2] VSS/VAL compatible suppressor (integrated).</text>
 	</string>
-	
-	<string id="st_wpn_vintorez_nimble_descr">
-		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_red]Warsaw •••\n \n%c[ui_gray_2]A special variant of the famous VSS sniper rifle. This model has been extensively customised. Its internal mechanism has been replaced with a better one, which results in increased muzzle velocity and accuracy. It has an effective range of up to 600 metres.\n \n
-		%c[d_green]  • %c[ui_gray_2] ATTACHMENTS:\n
-		%c[d_purple] • %c[ui_gray_2] PSO-1 scope (integrated).\n
-		%c[d_purple] • %c[ui_gray_2] VSS/VAL compatible suppressor (integrated).</text>
-	</string>
-	
 	
 	<string id="st_wpn_vssk_descr">
 		<text>%c[d_green] • %c[ui_gray_2]BlackMarket: %c[d_red]Warsaw •••\n \n%c[ui_gray_2]The VSSK is a Russian bullpup, straight-pull bolt-action sniper rifle chambered for the 12.7x55mm subsonic round. The weapon is also known by its other name, Vykhlop. It was developed in 2002 for special forces units of FSB.\n \n

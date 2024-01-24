@@ -1,4 +1,17 @@
 -------------------Changelog----------------------------
+2.6.20
+- Trade pool changes
+	• Adar added. (Tier 1 WP)
+	• Am17 added, traders don't sell it. (Tier 3 WP)
+	• Amb17 added. (Tier 3 WP)
+	• PKM Siber added. (Tier 3 WP)
+	• PKM Siber Zenit added, traders don't sell it. (Tier 3 WP)
+	• PKP Siber. (Tier 3 WP)
+- Pricing changes
+	• RD-9x39 base cost reduced.
+- Fixes
+	• Fixed Korth Custom 6 sellable with Docter sight attached.
+
 2.6.19
 - Trade pool changes
 	• L85A2 Tactical removed from traders.
@@ -8,12 +21,12 @@
 	• HS2000 removed from traders.
 	• Glock19 added to traders. (Tier 2 Nato)
 	• Scout 5.56 & 7.62 added to traders. (Tier 2 Nato)
-	• Winchester added to trader. (Tier 1 Nato)
+	• Winchester added to traders. (Tier 1 Nato)
 	• XM4 moved to Nato 1.
 	• AK105 moved to WP 2.
 - Pricing changes
 	• AK105 "Swamp" & "Shakal" base cost aligned with ak105 + upgrades.
-	• AK12 "Monolith 1.0" base cost reduced
+	• AK12 "Monolith 1.0" base cost reduced.
 	• AK12 "Monolith 2.0" base cost aligned with 1.0 + upgrade.
 - Fixes
 	• Fixed Cutter dialog line not displaying.

@@ -1,6 +1,8 @@
 #include "blackmarket_gammafixes.ltx"
 #include "blackmarket_mags.ltx"
 
+;;This file controls stocks of vanilla weapons found in G.A.M.M.A
+
 [blackmarket_prices]
 ;;================[WARSAW]========================
 ;-----------------[Tier 1]--------------------
@@ -122,6 +124,7 @@ wpn_rg-6                            = 3.0
 
 ;-----------------[Tier 3]--------------------
 ;----(Pistols)
+wpn_mp412                           = 3.0
 wpn_mp443                           = 3.0
 wpn_pl15_tan                        = 3.0
 wpn_sr1m                            = 3.0
@@ -142,11 +145,12 @@ wpn_ak74_pmc                        = 3.0
 wpn_ak74u_m1_isg                    = 3.0
 wpn_akm_alfa                        = 3.0
 wpn_akm_isg                         = 3.0
+wpn_amb17                           = 3.0
 wpn_ash12                           = 3.0
 wpn_fal                             = 3.0
 wpn_groza_nimble                    = 3.0
-wpn_pkm                             = 3.0
-wpn_pkp                             = 3.0
+wpn_pkm_siber                       = 3.0
+wpn_pkp_siber                       = 3.0
 wpn_rpk74_16                        = 3.0
 wpn_vintorez_1pn93                  = 3.0
 wpn_vintorez_isg                    = 3.0
@@ -210,6 +214,7 @@ wpn_ump45                           = 3.0
 
 ;----(Rifles)
 wpn_ace21                           = 3.0
+wpn_adar2_15                        = 3.0
 wpn_l85_m1                          = 3.0
 wpn_l85a2                           = 3.0
 wpn_l85a2_alt                       = 3.0
@@ -862,8 +867,8 @@ wpn_sr2_veresk                      = 1, 0.15
 
 ;--------(rifles)
 wpn_ak12_custom                     = 1, 0.15
-wpn_pkm                             = 1, 0.15
-wpn_pkp                             = 1, 0.15
+wpn_pkm_siber                       = 1, 0.15
+wpn_pkp_siber                       = 1, 0.15
 
 ;--------(snipers)
 wpn_svds                            = 1, 0.15
@@ -882,8 +887,8 @@ wpn_sr2_veresk                      = 1, 0.10
 
 ;--------(rifles)
 wpn_ak12_custom                     = 1, 0.10
-wpn_pkm                             = 1, 0.10
-wpn_pkp                             = 1, 0.10
+wpn_pkm_siber                       = 1, 0.10
+wpn_pkp_siber                       = 1, 0.10
 
 ;--------(snipers)
 wpn_svds                            = 1, 0.10
@@ -933,6 +938,7 @@ wpn_sr2_m1                          = 1, 0.15
 wpn_ak104_alfa                      = 1, 0.15
 wpn_akm_alfa                        = 1, 0.15
 wpn_akm_isg                         = 1, 0.15
+wpn_amb17                           = 1, 0.15
 wpn_vintorez_m2                     = 1, 0.15
 
 ;--------(snipers)
@@ -948,6 +954,7 @@ wpn_sr2_m1                          = 1, 0.10
 wpn_ak104_alfa                      = 1, 0.10
 wpn_akm_alfa                        = 1, 0.10
 wpn_akm_isg                         = 1, 0.10
+wpn_amb17                           = 1, 0.10
 wpn_vintorez_m2                     = 1, 0.10
 
 ;--------(snipers)
@@ -1008,6 +1015,7 @@ wpn_thompson_1921                   = 1, 0.15
 wpn_ump45                           = 1, 0.15
 
 ;--------(rifles)
+wpn_adar2_15                        = 1, 0.15
 wpn_l85a2                           = 1, 0.15
 wpn_sig552                          = 1, 0.15
 
@@ -1038,6 +1046,7 @@ wpn_thompson_1921                   = 1, 0.10
 wpn_ump45                           = 1, 0.10
 
 ;--------(rifles)
+wpn_adar2_15                        = 1, 0.10
 wpn_l85a2                           = 1, 0.10
 wpn_sig552                          = 1, 0.10
 
@@ -1506,6 +1515,27 @@ wpn_9a91_ps01
 wpn_9a91_pso1m21
 wpn_9a91_pso2
 wpn_9a91_usp1
+
+wpn_adar2_15
+wpn_adar2_15_ac10632
+wpn_adar2_15_acog
+wpn_adar2_15_aimpoint
+wpn_adar2_15_c-more
+wpn_adar2_15_compm4s
+wpn_adar2_15_e0t2
+wpn_adar2_15_ekp8_18
+wpn_adar2_15_eot
+wpn_adar2_15_kemper
+wpn_adar2_15_leupold
+wpn_adar2_15_marchf
+wpn_adar2_15_mark8_rmr
+wpn_adar2_15_mepro
+wpn_adar2_15_pn23
+wpn_adar2_15_point_aimpro
+wpn_adar2_15_spec_alt
+wpn_adar2_15_specter
+wpn_adar2_15_triji
+
 wpn_ak
 wpn_ak104
 wpn_ak104_1p29
@@ -1954,6 +1984,7 @@ wpn_vintorez_n1_ps01
 wpn_vintorez_n1_pso1m21
 wpn_vintorez_n1_pso2
 wpn_vintorez_n1_usp1
+wpn_vintorez_nimble
 wpn_vsk94
 wpn_vsk94_1p29
 wpn_vsk94_1p59
@@ -2349,6 +2380,47 @@ wpn_akm_isg_specter
 wpn_akm_isg_susat
 wpn_akm_isg_triji
 
+wpn_am17
+wpn_am17_ac10632
+wpn_am17_acog
+wpn_am17_aim_low
+wpn_am17_aimpoint
+wpn_am17_c-more
+wpn_am17_compm4s
+wpn_am17_deltapoint
+wpn_am17_e0t2
+wpn_am17_ekp8_18
+wpn_am17_eot
+wpn_am17_kemper
+wpn_am17_leupold
+wpn_am17_mark8_rmr
+wpn_am17_mepro
+wpn_am17_point_aimpro
+wpn_am17_rmr
+wpn_am17_spec_alt
+wpn_am17_specter
+wpn_am17_triji
+
+wpn_amb17
+wpn_amb17_acog
+wpn_amb17_aim_low
+wpn_amb17_aimpoint
+wpn_amb17_aimpoint_pro
+wpn_amb17_compm4s
+wpn_amb17_deltapoint
+wpn_amb17_e0t2
+wpn_amb17_ekp8_18
+wpn_amb17_eot
+wpn_amb17_kemper
+wpn_amb17_leupold
+wpn_amb17_mark8_rmr
+wpn_amb17_mepro
+wpn_amb17_point_aimpro
+wpn_amb17_rmr
+wpn_amb17_spec_alt
+wpn_amb17_specter
+wpn_amb17_triji
+
 wpn_groza_nimble
 wpn_groza_nimble_0kp2
 wpn_groza_nimble_1p76
@@ -2373,9 +2445,51 @@ wpn_groza_nimble_specter
 wpn_groza_nimble_wpn_addon_scope_po4x34
 
 wpn_pkm
+
+wpn_pkm_siber
+
+wpn_pkm_zenit_siber
+wpn_pkm_zenit_siber_0kp2
+wpn_pkm_zenit_siber_ac10632
+wpn_pkm_zenit_siber_acog
+wpn_pkm_zenit_siber_aim_low
+wpn_pkm_zenit_siber_aimpoint
+wpn_pkm_zenit_siber_compm4s
+wpn_pkm_zenit_siber_d0cter
+wpn_pkm_zenit_siber_deltapoint
+wpn_pkm_zenit_siber_e0t2
+wpn_pkm_zenit_siber_ekp8_18
+wpn_pkm_zenit_siber_eot
+wpn_pkm_zenit_siber_gauss_sight
+wpn_pkm_zenit_siber_kemper
+wpn_pkm_zenit_siber_leupold
+wpn_pkm_zenit_siber_marchf
+wpn_pkm_zenit_siber_mepro
+wpn_pkm_zenit_siber_pn23
+wpn_pkm_zenit_siber_point_aimpro
+wpn_pkm_zenit_siber_rakurs
+wpn_pkm_zenit_siber_rmr
+wpn_pkm_zenit_siber_specter
+
 wpn_pkm_zulus
 
 wpn_pkp
+
+wpn_pkp_siber
+wpn_pkp_siber_1p29
+wpn_pkp_siber_1p59
+wpn_pkp_siber_1p76
+wpn_pkp_siber_1p78gs
+wpn_pkp_siber_1pn93
+wpn_pkp_siber_1pn93n2_1gs
+wpn_pkp_siber_ekp8_02
+wpn_pkp_siber_kobra
+wpn_pkp_siber_okp
+wpn_pkp_siber_pka
+wpn_pkp_siber_ps01
+wpn_pkp_siber_pso1m21
+wpn_pkp_siber_pso2
+wpn_pkp_siber_usp1
 
 wpn_rpk74_16
 wpn_rpk74_16_0kp2
@@ -2495,7 +2609,6 @@ wpn_vintorez_isg_pso2
 wpn_vintorez_isg_specter
 wpn_vintorez_isg_susat
 wpn_vintorez_isg_usp1
-wpn_vintorez_nimble
 
 
 ;----(Snipers)
@@ -3266,7 +3379,7 @@ wpn_glock17_m1_deltapoint
 wpn_glock17_m1_rmr
 wpn_korth
 wpn_korth_custom
-wpn_korth_d0cter
+wpn_korth_custom_d0cter
 wpn_sig220_nimble
 wpn_usp_tac
 wpn_usp_tac_aim_low
