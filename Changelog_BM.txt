@@ -1,4 +1,7 @@
 -------------------Changelog----------------------------
+2.6.21
+- Fixes
+	• Fixed zzzz_arti_jamming_repairs.script added to match GAMMA 0.9.3
 2.6.20
 - Trade pool changes
 	• Adar added. (Tier 1 WP)
