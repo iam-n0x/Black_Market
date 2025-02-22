@@ -1,4 +1,7 @@
 -------------------Changelog----------------------------
+2.6.22
+- Fixes
+	• gamma_nato_preset.ltx and gamma_wp_preset.ltx deleted as they were no longer needed and were causing an issue where some attachments were not appearing at traders.
 2.6.21
 - Fixes
 	• Fixed zzzz_arti_jamming_repairs.script added to match GAMMA 0.9.3
