@@ -1,4 +1,7 @@
 -------------------Changelog----------------------------
+2.6.23
+- Fixes
+	• NATO preset has been removed from Mono traders to prevent potential crashes expected in the upcoming GAMMA update.
 2.6.22
 - Fixes
 	• gamma_nato_preset.ltx and gamma_wp_preset.ltx deleted as they were no longer needed and were causing an issue where some attachments were not appearing at traders.
