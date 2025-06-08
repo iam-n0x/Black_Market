@@ -1,1 +1,1 @@
-# BlackMarket 2.6.22
+# BlackMarket 2.6.23
