@@ -1,0 +1,434 @@
+# Changelog
+
+[Black Market](https://github.com/iam-n0x/Black_Market) history.
+
+**Changes up to version [2.6.23](#2623---2025-06-08) are from [`Changelog_BM.txt`](Changelog_BM.txt).**
+
+**Recommended format**
+
+Base the format on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), 
+and adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+## [Unreleased]
+
+### Added
+
+- Add `.gitattributes`
+- Add documentation
+  - Add `CHANGELOG.md` and fill from `Changelog_BM.txt`
+  - Add description from `README_BM.txt` to `README.md`
+
+## [2.6.23] - 2025-06-08
+
+- Fixes
+  - NATO preset has been removed from Mono traders to prevent potential crashes expected in 
+  the upcoming GAMMA update.
+
+## [2.6.22] - 2025-02-23
+
+- Fixes
+  - gamma_nato_preset.ltx and gamma_wp_preset.ltx deleted as they were no longer needed and 
+  were causing an issue where some attachments were not appearing at traders.
+
+## [2.6.21] - 2024-12-09
+
+- Fixes
+  - Fixed zzzz_arti_jamming_repairs.script added to match GAMMA 0.9.3
+
+## [2.6.20] - 2024-01-25
+
+- Trade pool changes
+  - Adar added. (Tier 1 WP)
+  - Am17 added, traders don't sell it. (Tier 3 WP)
+  - Amb17 added. (Tier 3 WP)
+  - PKM Siber added. (Tier 3 WP)
+  - PKM Siber Zenit added, traders don't sell it. (Tier 3 WP)
+  - PKP Siber. (Tier 3 WP)
+- Pricing changes
+  - RD-9x39 base cost reduced.
+- Fixes
+  - Fixed Korth Custom 6 sellable with Docter sight attached.
+
+## [2.6.19] - 2023-11-16
+
+- Trade pool changes
+  - L85A2 Tactical removed from traders.
+  - L96A1 removed from traders.
+  - AK-105 "Specialist" removed from traders.
+  - USP "Match Tactical" removed from traders.
+  - HS2000 removed from traders.
+  - Glock19 added to traders. (Tier 2 Nato)
+  - Scout 5.56 & 7.62 added to traders. (Tier 2 Nato)
+  - Winchester added to traders. (Tier 1 Nato)
+  - XM4 moved to Nato 1.
+  - AK105 moved to WP 2.
+- Pricing changes
+  - AK105 "Swamp" & "Shakal" base cost aligned with ak105 + upgrades.
+  - AK12 "Monolith 1.0" base cost reduced.
+  - AK12 "Monolith 2.0" base cost aligned with 1.0 + upgrade.
+- Fixes
+  - Fixed Cutter dialog line not displaying.
+  - zzzz_arti_jamming_repairs.script updated.
+
+## [2.6.h18] - 2023-10-21
+
+- Trade pool changes
+  - FN-2000 added to trade pool as Nato 2 weapon.
+  - FN-2000 and XM4 are now buyable.
+- Fixes
+  - Fixed Descriptions (EN/RU).
+
+## [2.6.h17] - 2023-10-17
+
+- Fixes
+  - Fixed wrong WP/Nato presets.
+
+## [2.6.h16] - 2023-10-15
+
+- Trade pool changes
+  - Desert Eagle custom variants removed from traders.
+  - XM4 added to trade pool as Nato 2 weapon.
+
+- Fixes
+  - Fixed Forester trade preset to match G.A.M.M.A 0.9.1 (he still buy wp tier 3 weapons).
+  - Fixed Forester dialog line not displaying.
+  - Fixed New weapons descriptions (EN/RU).
+
+## [2.6.h15] - 2023-07-10
+
+**Created [GitHub repository](https://github.com/iam-n0x/Black_Market).**
+
+**Old versions can be found (most likely not) in [old](https://discord.com/channels/912320241713958912/1042855902790828082) 
+& [new](https://discord.com/channels/912320241713958912/1070840746841739314) threads.**
+
+- Fixes
+  - Fixed dialog lines not being displayed.
+    - Thanks to @zredvenomz & @iceking79.
+
+## [2.6.h14] - 2023-07-03
+
+- Fixes
+  - Missing file leading to crash if you don't use Black Market Mag Redux.
+
+## [2.6.h13] - 2023-07-02
+
+- Fixes
+  - Field strip option avalaible in traders inventory disabled.
+  - Fixed "missing section" console errors.
+    - Thanks to @VVLàD
+  - NPCs loadout cleaner included.
+  - Fixed Groza descriptions (EN/RU).
+  - Fixed AUG-A1 tier description (RU).
+  - Fixed PKM_zulu description (RU).
+    - Thanks to @gentlemangoose
+
+## [2.6.h12] - 2023-05-21
+
+- Fixed Polymer (Darkscape) trade profile.
+
+## [2.6.h11] - 2023-05-20
+
+- Changed presets to make it compatible with Mags Redux patch.
+- Cutter (Darkscape) has its own trader profile.
+  - His base profile includes Loris trade pool + black market WP 1.
+- Trade pool changes
+  - Saiga 12 removed.
+  - Ks23 Ecolog removed.
+  - Toz 34 bull removed.
+  - TT33 moved to wp 1.
+  - PP-19 moved to wp2.
+  - PP-2000 moved to wp 2.
+  - Thompson 1921 moved to nato 1.
+  - M1911 SVI moved to nato 2.
+  - Mauser k98 and Silenced version moved to Nato 2.
+  - Mp7 moved to nato 2.
+  - SA-58 Aus moved to nato 2.
+  - SKS Tactical moved to nato 2.
+  - Walther_P99 and mod9 version moved to nato 2.
+  - SA-58 OSW moved to nato 3.
+  - Scar Siber rmoved to nato 3.
+  - SR-25 moved to nato 3.
+- Fixes
+  - Fixed RPG7 spawning in Spore inventory.
+
+## [2.6.h10] - 2023-04-24
+
+- Retrogue's weapons (gamma version) added to trade pool.
+  - G36s replaced.
+  - P90gamma added to Nato 3.
+- Changes
+  - P90_gs moved to Nato 2.
+  - Ace52 moved to Nato 2.
+- Fixes
+  - Moved some remaining low tier Colts to nato 1.
+  - Toz 194 moved to WP 1.
+  - Fixed Gunslinger usp descriptions.
+  - Fixed Glock 17 Tactical wrong label (RU).
+
+## [2.6.h9] - 2023-04-20
+
+- Removed forgotten test folder that disabled cortex injection.
+  - Thanks to @rasde !
+
+## [2.6.h8] - 2023-04-14
+
+- Gunslinger SIGs and Groza included.
+- Gunslinger P90 descriptions fixed EN/RU.
+- Gunslinger Beretta 92F "Stars" descriptions fixed EN/RU.
+- Gunslinger Toz Chimera/Bull base cost reduced and descriptions fixed EN/RU.
+- SIG550 (custom) moved to Nato 3.
+- RD-9x39 base cost reduced.
+- wpn_ump45_mark8_rmr and wpn_ump45_custom_mark8_rmr added to trade preset.
+- trade_presets.ltx removed. Fixes are applied via blackmarket_gammafixes.ltx.
+- "Mags Buyable at Traders" disabled via blackmarket_gammafixes.ltx.
+- Ithaca autoinjection removed.
+
+## [2.6.h7] - 2023-04-11
+
+- All additional items are removed. Only weapons and armor remain.
+- Price multipliers affecting all items except weapons and armor have been removed.
+- RG-6 moved to Nato 2 pool.
+  - Thanks to @Dyshes !
+- M40 Gas Mask removed from Sakharov inventory.
+- Fixed wpn_glock_modern description.
+
+## [2.6.h6] - 2023-04-05
+
+- Gunslinger P90 Tactical added to Nato 3 pool.
+
+## [2.6.h5] - 2023-04-03
+
+- Mod updated to work with G.A.M.M.A 0.9 presets.
+- Ace52 and M37 added to Nato 1 pool.
+
+## [2.6.h4] - 2023-03-31
+
+- Fixed MP-412 Rex description (RU).
+  - Thanks to @rasde !
+- Latest DXML scripts included.
+
+## [2.6.h3] - 2023-03-18
+
+- DXML scripts have been removed as they are now included in G.A.M.M.A
+  - Thanks to @strangerism
+
+## [2.6.h2] - 2023-03-06
+
+- Fixed TOZ-34 sawn-off name/description (RU).
+  - Thanks to @rasde !
+
+## [2.6.h1] - 2023-02-11
+
+- Fixed Auto-injection poisonning traders presets
+  - Fixed Dushman selling tier2 Augs. You should see more variety in all NATO trading pools.
+- Fixed missing RU descriptions.
+  - Thanks to @rasde !
+
+## [2.6] - 2023-02-03
+
+**[@Nox](https://github.com/iam-n0x) takes over.**
+
+**Created [new thread](https://discord.com/channels/912320241713958912/1070840746841739314) 
+in [discord](https://discord.gg/stalker-gamma).**
+
+- Descriptions updated
+  - Attachments for every weapon should be displayed correctly in the tooltip.
+  - BlackMarket tag added.
+- Fixed weapons (variants and attachment combos) not supposed to be sellable.
+- For now the mod will overwrite G.A.M.M.A economy trade_preset.ltx till these fixes will be included 
+  in G.A.M.M.A. (It was a long process of checking each weapon variant & combo, I checked several times 
+  but there may still be some left. Please report any weird possibilities of selling a weapon that isn't supposed to be sellable).
+- Fixed dushman not buying helmets.
+- Fixed dushman sellings tier 2 augs variants. (band-aid fix, I still don't know what's causing this)
+- Unused items removed from nimble inventory.
+
+## [2.5] - 2023-01-12
+
+- Fixed some weapons in incorrect trade pools.
+- Fixed scientists not selling headgear.
+- Added specter variants for some AUG's to trade tables.
+- Fixed NATO AK variants being classified as WP.
+- Updated Nato AK variant desription text.
+- Included description fixes from @Nox
+- Still can't find a fix for Dushman stocking some specific tier 2 AUG's. I can't find why it's happening, 
+I'm completely stumped. Guess Mercs really do live by their own rules.
+- Still need to check for more missing attachment variants.
+
+## [2.4] - 2022-12-22
+
+- Added new probability overrides for weapons and armor, each supply level will reduce the odds of stocking these items 
+from the previous supply level.
+- This *should* reduce inventory bloat at high supply levels and increase the odds of finding better loot at the higher supply levels.
+- Adjusted the probabilities for weapons and armors, and adjusted some supply levels.
+- Tiered ammo by FMJ, HP and AP and made a sliding scale of price multipliers so early game calibers are more affordable.
+- Found a bug with forester. By default the logic for Lesnik makes him use the generic mechanic profile. (trade_generic_mechanic.ltx)
+- This means my edits were doing nothing. I have rolled the edits made by @firehome into the mod and fixed several errors, 
+and added the logic to make Lesnik unique.
+- Moved some Loner armors to Forester.
+- Added tier info to several weapons, thanks to @markuzkiller for finding them. I was also able to add some missing weapons 
+to the trader buy pools.
+- Removed the supply level edits from Nimble, this should fix the CTD when talking to him.
+
+## [2.3] - 2022-12-19
+
+- Increased price multipliers.
+- Added ammo price multipliers.
+- Added a chance to get intermediate FMJ ammo at supply level 1 for certain factions 
+(Military, Mercs, Freedom, Duty, Monolith, Renegades, ISG, Sin).
+- Modified some trade probabilities.
+- Moved around armors and masks in trade pools for (hopefully) smoother and harder progression.
+
+## [2.2] - 2022-12-16
+
+- Fixed the tier 3 nato definition, now those trader should work correctly.
+- Found my fix from 2.0 was not included in the 2.1 patch. Stupid.
+- Fixed a couple other random issues in the presets file.
+
+## [2.1] - 2022-12-15
+
+- Fixed day flea market trader. Should now sell armors.
+
+## [2.0 hotfix] - 2022-12-15
+
+- Force removed all toolkits from regular trader inventories. Mechanics are unchanged, 
+they will still sell toolkits after you do their fetch quests.
+
+## [1.9] - 2022-12-14
+
+- Added price multipliers for armors, helmets, NVG's, and army kettle. Increased the multiplier slightly.
+- Updated dialogues for ecologist traders.
+- Added armors to trade pools, huge thanks to @Wulfos3 for his spreadsheet of game items and ranking, which made this process insanely easy.
+- Russian dialogue localization thanks to @rasde.
+- Changed rg-6 to tier 2.
+- Added the new weapons from GAMMA 1.2 to the trade tables.
+- Fixed all weapons missing tier descriptions, big thanks to @xcvb for his script which prints the items in inventory to the log.
+
+Known issue:
+- ~119 weapons do not have attachment bullet infos under the description in the english text. Some of them aren't supposed to have these, 
+but some are missing.
+- As far as I can tell, these are missing in vanilla GAMMA. I pulled the descriptions straight from the current xml files in GAMMA.
+- I have included a .txt list of these weapons in the mod files. I probably won't be fixing those descriptions myself.
+- This is likely the last update I will make to the mod in a while. My apprenticeship is heating up and I need to focus on work.
+- If anyone wants to contribute/update the mod, feel free to post updates in the discord.
+
+## [1.8] - 2022-12-10
+
+- Fixed Cashier (was incorrectly categorized as tier 1, now tier 3 WP).
+- Adjusted armor probabilites since they were too common.
+
+## [1.7] - 2022-12-08
+
+- Included core scripts from DXML mod. This should get dialogues working without any extra steps. 
+It's probably not a bad idea to install DXML on it's own (but leave out the included modded .exe's)
+- Updated (most) weapon descriptions with Tier information. There may still be some weapons that do not have Tier information. 
+Please let me know if you come across any, or any that have incorrect tier info.
+- Lowered odds of weapon spawns in trader inventories dramatically. This means Trader Overhaul is NO LONGER REQUIRED! 
+(You can still use it if you want to)
+- Fixed trader pools excluding armors. Some traders should now have armors spawn in their inventories.
+- Added some missing weapons to trader pools during the description update process.
+
+## [1.6] - 2022-12-01
+
+- Added dialogues to traders to inform the player of what type and tier weapons they trade. (Still needs full testing)
+- Included a vanilla version of the stalker dialogues so disabling "no trade with random stalkers" is no longer necessary.
+
+## [1.5*] - 2022-11-30
+
+- Added the blackmarket prices definition to the trader_generic_sell. woops.
+
+## [1.5] - 2022-11-29
+
+- Ordered changelog from newest to oldest, would you look at that.
+- Removed guns from trader sell pools that were absent in good_guns (so removed weapons determined to be bad by grok)
+- Added configuration for the price traders sell weapons. Currently all weapons have been set to 300% base cost. 
+(Basically a risk tax by the traders)
+- Increased odds for pistols and reduced odds for gauss rifle to spawn in trader inventories.
+- Migrated ALL Black Market presets to the blackmarket_trade_presets.ltx file. This means that the mod is officially 
+no longer overwriting ANY FILES!! Yay! :)  
+  (I consider this an absolute win. In my humble opionion mags_buyable_at_traders should adopt a similar implementation instead of 
+  overwriting GAMMA's economy presets.)
+
+## [1.4] - 2022-11-27
+
+**(needs testing but I think it should be good)**
+
+- Foundational update! Weapon Sell pools have been migrated to a brand new blackmarket_weapon_preset.ltx file, 
+which is now injected into the included files using the existing DLTX changes. This is extremely important for 
+future updates to the sell pools - Instead of editing 30 trader files, only 1 file has to be updated.
+- Eggheads no longer sell weapons, they only buy them. 
+The lore explaination is that they are selling them to the UN through a buyback program. 
+Eggheads are very lawful and friendly with most factions so to me it makes sense.
+- Day flea market trader no longer sells weapons (balance reasons, level 1 nato sellers are available elsewhere)
+- Removed the artefact melter changes from the item_uses_increases minimod.
+
+## [1.3] - 2022-11-25
+
+- Added tier definitions for "Any" type traders. Some traders (Monolith, Mercs, Renegades) 
+will now buy either WP or NATO weapons but are now also constrained by the tier system.
+- Added weapons of both types to "Any" traders sell pools.
+- Removed the random stalker money changes. 
+After some testing I decided random stalkers had too much money to trade with, it's not worth overwriting other mods.
+- Made tiers mutually exclusive for more balance (Tier 2 will not buy Tier 1 weapons, Tier 3 will not buy Tier 1 or 2 weapons).
+- Fixed Truck Cemetery Bandit trader.
+- Fixed a few other traders that were not correctly tiered, like trade_merc_basic and trade_monolith_basic.
+
+## [1.2] - 2022-11-21
+
+- Fixed a missing definition which was causing Sakarov to buy all weapons.
+
+## [1.1] - 2022-11-18
+
+- added army kettle to trader pools after supply level 2
+- aligned trader_sell_generic with trader_buy_generic definitions, 
+this should prevent traders from selling the wrong types of weapons with Mags Buyable at Traders. 
+This MIGHT break some functionality in that mod, I'm not sure
+- fixed versioning... I'm lousy at that
+
+## [1.0] - 2022-11-18
+
+- cleaned unneeded files
+- fixed crash in Great Swamp related to Spore
+- DLTXified
+- Aligned weapon sale pools with buy pools
+
+[Unreleased]: https://github.com/iam-n0x/Black_Market/compare/318937d..HEAD
+[2.6.23]: https://github.com/iam-n0x/Black_Market/compare/a3c1b2f..318937d
+[2.6.22]: https://github.com/iam-n0x/Black_Market/compare/45f0732..a3c1b2f
+[2.6.21]: https://github.com/iam-n0x/Black_Market/compare/6afc1e8..45f0732
+[2.6.20]: https://github.com/iam-n0x/Black_Market/compare/fe319ce..6afc1e8
+[2.6.19]: https://github.com/iam-n0x/Black_Market/compare/d353d8e..fe319ce
+[2.6.h18]: https://github.com/iam-n0x/Black_Market/compare/25e3c7a..d353d8e
+[2.6.h17]: https://github.com/iam-n0x/Black_Market/compare/f106043..25e3c7a
+[2.6.h16]: https://github.com/iam-n0x/Black_Market/compare/a24996e..f106043
+[2.6.h15]: https://github.com/iam-n0x/Black_Market/compare/eb6bd48..a24996e
+[2.6.h14]: https://discord.com/channels/912320241713958912/1070840746841739314/1125146872902848514
+[2.6.h13]: https://discord.com/channels/912320241713958912/1070840746841739314/1125024787480182847
+[2.6.h12]: https://discord.com/channels/912320241713958912/1070840746841739314/1109554074849902675
+[2.6.h11]: https://discord.com/channels/912320241713958912/1070840746841739314/1109263762365616138
+[2.6.h10]: https://discord.com/channels/912320241713958912/1070840746841739314/1100022829992390727
+[2.6.h9]: https://discord.com/channels/912320241713958912/1070840746841739314/1098621050436194374
+[2.6.h8]: https://discord.com/channels/912320241713958912/1070840746841739314/1096387576568488031
+[2.6.h7]: https://discord.com/channels/912320241713958912/1070840746841739314/1095066522382245968
+[2.6.h6]: https://discord.com/channels/912320241713958912/1070840746841739314/1092889306554712115
+[2.6.h5]: https://discord.com/channels/912320241713958912/1070840746841739314/1092153784848883892
+[2.6.h4]: https://discord.com/channels/912320241713958912/1070840746841739314/1091105704099717120
+[2.6.h3]: https://discord.com/channels/912320241713958912/1070840746841739314/1086629085708554302
+[2.6.h2]: https://discord.com/channels/912320241713958912/1070840746841739314/1082026642374922290
+[2.6.h1]: https://discord.com/channels/912320241713958912/1070840746841739314/1073660353134743603
+[2.6]: https://discord.com/channels/912320241713958912/1070840746841739314/1070840746841739314
+[2.5]: https://discord.com/channels/912320241713958912/1042855902790828082/1062855404897435678
+[2.4]: https://discord.com/channels/912320241713958912/1042855902790828082/1055352499835523112
+[2.3]: https://discord.com/channels/912320241713958912/1042855902790828082/1054139713545572414
+[2.2]: https://discord.com/channels/912320241713958912/1042855902790828082/1052979792124842036
+[2.1]: https://discord.com/channels/912320241713958912/1042855902790828082/1052712606537887805
+[2.0 hotfix]: https://discord.com/channels/912320241713958912/1042855902790828082/1052631856392175697
+[1.9]: https://discord.com/channels/912320241713958912/1042855902790828082/1052454818272268420
+[1.8]: https://discord.com/channels/912320241713958912/1042855902790828082/1051015730872721509
+[1.7]: https://discord.com/channels/912320241713958912/1042855902790828082/1050255323191066655
+[1.6]: https://discord.com/channels/912320241713958912/1042855902790828082/1047688859342884864
+[1.5*]: https://discord.com/channels/912320241713958912/1042855902790828082/1047194970685181962
+[1.5]: https://discord.com/channels/912320241713958912/1042855902790828082/1047070892334792734
+[1.4]: https://discord.com/channels/912320241713958912/1042855902790828082/1046285933126893618
+[1.3]: https://discord.com/channels/912320241713958912/1042855902790828082/1045397726243868723
+[1.2]: https://discord.com/channels/912320241713958912/1042855902790828082/1044057332142841908
+[1.1]: https://discord.com/channels/912320241713958912/1042855902790828082/1042931818720133180
+[1.0]: https://discord.com/channels/912320241713958912/1042855902790828082/1042897871931973656
