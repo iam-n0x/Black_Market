@@ -1,0 +1,32 @@
+--[[=======================================================================================================
+	WARNING! This script should load before original `zzzz_arti_jamming_repairs.script` to work.
+-- ========================================================================================================
+	What it does:
+		Disables field strip option in traders inventory.
+-- ========================================================================================================
+	Notes:
+		Original fix (Black Market [2.6.h13] - 2023-07-02) overwrites `zzzz_arti_jamming_repairs.script`.
+-- ========================================================================================================]]
+
+local base_name_fieldstrip
+function monkey_name_fieldstrip(obj, bag, mode)
+	local modes = {
+		["inventory"] = true,
+		["loot"]      = true,
+	}
+	local bags = {
+		["actor_equ"]  = true,
+		["actor_belt"] = true,
+		["actor_bag"]  = true,
+		["npc_bag"]    = true,
+	}
+
+	if not (bags[bag] and modes[mode]) then return end
+	return base_name_fieldstrip(obj, bag, mode)
+end
+
+
+function on_game_start()
+	base_name_fieldstrip = zzzz_arti_jamming_repairs.name_fieldstrip
+	zzzz_arti_jamming_repairs.name_fieldstrip = monkey_name_fieldstrip
+end
