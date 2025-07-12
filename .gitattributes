@@ -1,0 +1,10 @@
+# Scripts and configs
+*.ltx linguist-language=ini
+*.script linguist-language=lua
+
+# Shaders
+*.ps linguist-language=hlsl
+*.gs linguist-language=hlsl
+*.vs linguist-language=hlsl
+*.cs linguist-language=hlsl
+*.s linguist-language=lua
